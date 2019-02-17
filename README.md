@@ -12,7 +12,7 @@
 
 ## Directory structure
 | Path | Description |
-| :--- | ---: |
+| :--- | --- |
 | . | |
 | ├── config/ | Configuration files  |
 | ├── public/ | Web server files (DocumentRoot)  |
