@@ -12,7 +12,7 @@
 
 ## Directory structure
 > .  
-> ├── config/             Configuration files  
+> ├── config/             &nbsp;&nbsp;&nbsp;Configuration files  
 > ├── public/             Web server files (DocumentRoot)  
 > │   └── .htaccess       Apache redirect rules for the front controller  
 > │   └── index.php       The front controller  
