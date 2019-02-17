@@ -1,6 +1,6 @@
 # Tantra Web Microservices with PHP :coffee:
 
-> [Tracking project:](https://github.com/orgs/khanakat/projects/1)
+> [View project status](https://github.com/orgs/khanakat/projects/1)
 
 ## Requirements
 - PHP 7.x
