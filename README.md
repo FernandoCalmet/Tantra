@@ -12,13 +12,13 @@
 
 ## Directory structure
 > .  
-> ├── config/             &nbsp;&nbsp;&nbsp;Configuration files  
-> ├── public/             Web server files (DocumentRoot)  
-> │   └── .htaccess       Apache redirect rules for the front controller  
-> │   └── index.php       The front controller  
-> ├── templates/          Twig templates  
-> ├── src/                PHP source code (The App namespace)  
-> ├── tmp/                Temporary files (cache and logfiles)  
-> ├── vendor/             Reserved for composer  
-> ├── .htaccess           Internal redirect to the public/ directory  
-> └── .gitignore          Git ignore rules  
+> ├── config/             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuration files  
+> ├── public/             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web server files (DocumentRoot)  
+> │   └── .htaccess       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apache redirect rules for the front controller  
+> │   └── index.php       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The front controller  
+> ├── templates/          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Twig templates  
+> ├── src/                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP source code (The App namespace)  
+> ├── tmp/                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temporary files (cache and logfiles)  
+> ├── vendor/             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reserved for composer  
+> ├── .htaccess           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internal redirect to the public/ directory  
+> └── .gitignore          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git ignore rules  
