@@ -1,4 +1,4 @@
-# Tantra PHP Web App :yin_yang:
+# :yin_yang: Tantra PHP Web App 
 > Project developed by [Khanakat](https://www.github.com/khanakat)   
 > [View project status](https://github.com/orgs/khanakat/projects/1)  
 
