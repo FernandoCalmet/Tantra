@@ -1,6 +1,6 @@
-# Tantra Web Microservices with PHP :coffee:
-
-> [View project status](https://github.com/orgs/khanakat/projects/1)
+# Tantra PHP Web App :yin_yang:
+> Project developed by [Khanakat](https://www.github.com/khanakat)   
+> [View project status](https://github.com/orgs/khanakat/projects/1)  
 
 ## Requirements
 - PHP 7.x
