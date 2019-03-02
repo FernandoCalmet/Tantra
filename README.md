@@ -1,26 +1,52 @@
-# :yin_yang: Tantra PHP Web App 
+# :yin_yang: Tantra Web
 > Project developed by [Khanakat](https://www.github.com/khanakat)   
 > [View project status](https://github.com/orgs/khanakat/projects/1)  
 
 ## Requirements
-- PHP 7.x
-- MySQL 5.7+
-- MSSQL 9.0+
-- Apache 
-- Apache mod_rewrite module
-- Composer
+- NodeJS
+- MSSQL
+- Express
+- Cors
+- Cross-Env
+- DotEnv
+- FS-extra
+- HBS
+- Morgan
+- Multer
+- Webpack
+- Webpack Cli
+- Webpack Dev Server
+- Nodemon
+- Timeago JS
+- Style Loader
+- CSS Loader
+- Mini CSS Extract Plugin
+- HTML Webpack Plugin
 
-## Directory structure
+
+## Frontend Directory Structure
 | Path | Description |
 | :--- | --- |
 | . | |
-| ├── config/ | Configuration files  |
 | ├── public/ | Web server files (DocumentRoot)  |
-| │   └── .htaccess | Apache redirect rules for the front controller |
-| │   └── index.php | The front controller |
-| ├── templates/  | Twig templates |
-| ├── src/  | PHP source code (The App namespace)
-| ├── tmp/  | Temporary files (cache and logfiles) |
-| ├── vendor/ | Reserved for composer |
-| ├── .htaccess  | Internal redirect to the public/ directory |
-| └── .gitignore | Git ignore rules |
+| │   └── css | The front style |
+| │   └── js | The front scripts |
+| │   └── img | The front images |
+| ├── views/  | HBS template |
+| ├── services/  | Web services |
+| ├── routes/  | Web path |
+| ├── models/ | Objects Model Classes |
+| ├── .index.js  | index config |
+
+## Backend Directory Structure
+| Path | Description |
+| :--- | --- |
+| . | |
+| ├── public/ | Web server files (DocumentRoot)  |
+| │   └── index.html | index minified |
+| │   └── js | webpack bundle |
+| │   └── uploads | images uploaded |
+| ├── routes/  | Api path |
+| ├── models/ | Objects Model Classes |
+| ├── .index.js  | index config |
+| ├── .database.js  | database config |
