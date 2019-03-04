@@ -49,7 +49,8 @@
    
 - [ ] Read Cash from All Account_root
 - [ ] Read Cash from Account_root
-- [ ] Update Cash   
+- [ ] Update Cash from All Account_root
+- [ ] Update Cash from Account_root
    
 - [ ] Read all Account_ranking
 - [ ] Read Account_ranking profile
