@@ -50,9 +50,9 @@
 - [x] Delete all Account_game from Account_root
    
 - [x] Read Cash from All Account_root
-- [ ] Read Cash from Account_root
-- [ ] Update Cash from All Account_root
-- [ ] Update Cash from Account_root
+- [x] Read Cash from Account_root
+- [x] Update Cash from All Account_root
+- [x] Update Cash from Account_root
    
 - [ ] Read all Account_ranking
 - [ ] Read Account_ranking profile
