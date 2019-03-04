@@ -1,6 +1,6 @@
 # Tantra Web App & WebServices :yin_yang:
 > Project developed by [Khanakat](https://www.github.com/khanakat)   
-  
+   
 ## Frontend Directory Structure
 | Path | Description |
 | :--- | --- |
@@ -14,7 +14,7 @@
 | ├── routes/  | Web path |
 | ├── models/ | Objects Model Classes |
 | ├── .index.js  | APP config |
-  
+   
 ## Backend Directory Structure
 | Path | Description |
 | :--- | --- |
@@ -31,31 +31,31 @@
 | ├── templates  | Twig templates module |
 | ├── tmp  | Logs temporals |
 | ├── templates  | Dependencies |
-  
+   
 ## Project Task List Progress
 ### API Restful Web Services
 - [x] Read all Account_root
 - [x] Read Account_root
 - [x] Create Account_root
 - [x] Update Account_root
-- [x] Delete Account_root  
-  
+- [x] Delete Account_root   
+   
 - [x] Read all Account_game from all Account_root
 - [x] Read all Account_game from Account_root
 - [x] Read Account_game from Account_root
 - [x] Create Account_game
 - [x] Update Account_game
-- [x] Delete Account_game  
-  
+- [x] Delete Account_game   
+   
 - [ ] Read Cash from All Account_root
 - [ ] Read Cash from Account_root
-- [ ] Update Cash  
-  
+- [ ] Update Cash   
+   
 - [ ] Read all Account_ranking
 - [ ] Read Account_ranking profile
 - [ ] Read all Ashram_ranking
-- [ ] Read Ashram_ranking profile  
-  
+- [ ] Read Ashram_ranking profile   
+   
 - [ ] Read all Account_character from all Account_game
 - [ ] Read all Account_character from Account_game
 - [ ] Read Account_character from Account_game
@@ -81,10 +81,10 @@
 - [ ] Read/Update Account_character Pet Level
 - [ ] Read/Update Account_character Inventory Items
 - [ ] Read/Update Account_character Cargo Items
-- [ ] Read/Update Account_character Equipment Items  
-  
+- [ ] Read/Update Account_character Equipment Items   
+   
 - [ ] Read all Items from Webshop
 - [ ] Read Item from Webshop
 - [ ] Create Item to Webshop
 - [ ] Update Item from Webshop
-- [ ] Delete Item from Webshop  
+- [ ] Delete Item from Webshop   
