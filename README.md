@@ -38,16 +38,18 @@
 - [x] Read Account_root
 - [x] Create Account_root
 - [x] Update Account_root
-- [x] Delete Account_root   
+- [x] Delete Account_root 
+- [x] Delete all Account_root  
    
 - [x] Read all Account_game from all Account_root
 - [x] Read all Account_game from Account_root
 - [x] Read Account_game from Account_root
-- [x] Create Account_game
-- [x] Update Account_game
-- [x] Delete Account_game   
+- [x] Create Account_game from Account_root
+- [x] Update Account_game from Account_root
+- [x] Delete Account_game from Account_root
+- [x] Delete all Account_game from Account_root
    
-- [ ] Read Cash from All Account_root
+- [x] Read Cash from All Account_root
 - [ ] Read Cash from Account_root
 - [ ] Update Cash from All Account_root
 - [ ] Update Cash from Account_root
@@ -60,9 +62,9 @@
 - [ ] Read all Account_character from all Account_game
 - [ ] Read all Account_character from Account_game
 - [ ] Read Account_character from Account_game
-- [ ] Create Account_character
-- [ ] Update Account_character
-- [ ] Delete Account_character
+- [ ] Create Account_character from Account_game
+- [ ] Update Account_character from Account_game
+- [ ] Delete Account_character from Account_game
 - [ ] Read/Update Account_character Name
 - [ ] Read/Update Account_character Zone
 - [ ] Read/Update Account_character Position
