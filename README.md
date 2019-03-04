@@ -1,4 +1,4 @@
-# :yin_yang: Tantra WebServices
+# :yin_yang: Tantra Web App & WebServices
 > Project developed by [Khanakat](https://www.github.com/khanakat)   
 
 ## Frontend Directory Structure
