@@ -91,3 +91,15 @@
 - [ ] Create Item to Webshop
 - [ ] Update Item from Webshop
 - [ ] Delete Item from Webshop   
+
+- [ ] Read all Game Events
+- [ ] Read Game Event
+- [ ] Create Game Event
+- [ ] Update Game Event
+- [ ] Delete Game Event  
+
+- [ ] Read all Cash Coupons
+- [ ] Read Cash Coupon
+- [ ] Create Cash Coupon
+- [ ] Update Cash Coupon
+- [ ] Delete Cash Coupon
