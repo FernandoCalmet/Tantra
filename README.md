@@ -53,12 +53,12 @@
 - [x] Read Cash from Account_root
 - [x] Update Cash from All Account_root
 - [x] Update Cash from Account_root
-   
-- [ ] Read all Account_ranking
-- [ ] Read Account_ranking profile
-- [ ] Read all Ashram_ranking
-- [ ] Read Ashram_ranking profile   
-   
+      
+- [x] Read all Account_ranking
+- [x] Read Account_ranking profile
+- [x] Read all Ashram_ranking
+- [x] Read Ashram_ranking profile   
+
 - [ ] Read all Account_character from all Account_game
 - [ ] Read all Account_character from Account_game
 - [ ] Read Account_character from Account_game
