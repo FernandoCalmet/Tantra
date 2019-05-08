@@ -21,6 +21,6 @@
 * [Chat System](https://github.com/khanakat/TantraOnline/wiki/Chat-system)
 * [Guild System](https://github.com/khanakat/TantraOnline/wiki/Guild-system)
 * [PVP System](https://github.com/khanakat/TantraOnline/wiki/PVP-system)
-* [Trimurti Skills](https://github.com/khanakat/TantraOnline/wiki/Trimurti-skills)
+* [Belief System](https://github.com/khanakat/TantraOnline/wiki/Belief-system)
 * [Upgrade items](https://github.com/khanakat/TantraOnline/wiki/Upgrade-items)
 * [Crafting items](https://github.com/khanakat/TantraOnline/wiki/Crafting-items)
