@@ -6,6 +6,7 @@
 * [Intro the realms](https://github.com/khanakat/TantraOnline/wiki/Intro-the-realms-of-Tantra)
 * [The Story](https://github.com/khanakat/TantraOnline/wiki/The-Story)
 * [Glosary](https://github.com/khanakat/TantraOnline/wiki/Glosary)
+* [Shortcut Keys](https://github.com/khanakat/TantraOnline/wiki/Shortcut-keys)
   
 ### Intermediate guide
 * [Classes](https://github.com/khanakat/TantraOnline/wiki/Classes)
