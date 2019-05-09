@@ -1,4 +1,4 @@
-## Content
+## Players Content
   
 ### Begginer guide
 * [Home](https://github.com/khanakat/TantraOnline/wiki)
@@ -27,3 +27,6 @@
 * [Belief System](https://github.com/khanakat/TantraOnline/wiki/Belief-system)
 * [Upgrade items](https://github.com/khanakat/TantraOnline/wiki/Upgrade-items)
 * [Crafting items](https://github.com/khanakat/TantraOnline/wiki/Crafting-items)
+  
+## Developers Content
+coming soon...  
