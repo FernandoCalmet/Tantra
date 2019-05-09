@@ -32,3 +32,4 @@
 * [Account datafile structure](https://github.com/khanakat/TantraOnline/wiki/Account-datafile-structure)
 * [Account datafile params](https://github.com/khanakat/TantraOnline/wiki/Account-datafile-params)
 * [Task events](https://github.com/khanakat/TantraOnline/wiki/Task-events)
+* [Item set effects param](https://github.com/khanakat/TantraOnline/wiki/Item-set-effects-params)
