@@ -24,5 +24,6 @@
 * [PVP System](https://github.com/khanakat/TantraOnline/wiki/PVP-system)
 * [PK System](https://github.com/khanakat/TantraOnline/wiki/PK-system)
 * [Belief System](https://github.com/khanakat/TantraOnline/wiki/Belief-system)
+* [Titles System](https://github.com/khanakat/TantraOnline/wiki/Titles-system)
 * [Upgrade items](https://github.com/khanakat/TantraOnline/wiki/Upgrade-items)
 * [Crafting items](https://github.com/khanakat/TantraOnline/wiki/Crafting-items)
