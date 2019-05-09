@@ -29,4 +29,6 @@
 * [Crafting items](https://github.com/khanakat/TantraOnline/wiki/Crafting-items)
   
 ## Developers Content
-* [Account datafile](https://github.com/khanakat/TantraOnline/wiki/Account-datafile)
+* [Account datafile structure](https://github.com/khanakat/TantraOnline/wiki/Account-datafile-structure)
+* [Account datafile params](https://github.com/khanakat/TantraOnline/wiki/Account-datafile-params)
+* [Task events](https://github.com/khanakat/TantraOnline/wiki/Task-events)
