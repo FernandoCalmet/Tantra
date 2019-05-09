@@ -1,4 +1,4 @@
-## Players Content
+## PLAYERS CONTENT
   
 ### Begginer guide
 * [Home](https://github.com/khanakat/TantraOnline/wiki)
@@ -28,7 +28,7 @@
 * [Upgrade items](https://github.com/khanakat/TantraOnline/wiki/Upgrade-items)
 * [Crafting items](https://github.com/khanakat/TantraOnline/wiki/Crafting-items)
   
-## Developers Content
+## DEVELOPERS CONTENT
 * [Account datafile structure](https://github.com/khanakat/TantraOnline/wiki/Account-datafile-structure)
 * [Account datafile params](https://github.com/khanakat/TantraOnline/wiki/Account-datafile-params)
 * [Task events](https://github.com/khanakat/TantraOnline/wiki/Task-events)
