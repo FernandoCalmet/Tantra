@@ -29,11 +29,10 @@ Documentation to manage and administer your own online server.
 
 ### How to get the required files?
 
-- [Register](https://www.ko-fi.com) on ko-fi page.
-{: .d-inline-block }
-
 Step 1
 {: .label .label-custom-red }
+{: .d-inline-block }
+[Register](https://www.ko-fi.com) on ko-fi page.
 
 ![register](assets/images/index/register.png)
 
