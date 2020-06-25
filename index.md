@@ -9,7 +9,7 @@ last_modified_date: 2020-04-27T17:54:08+0000
 
 # Overview
 
-{: .fs-5 }
+{: .fs-4 }
 Tantra Online is a simple, fast paced 3D MMORPG set in an oriental fantasy world. Set in an oriental environment with 8 playable tribes and a PvP focused gameplay. With a high experience rate and simple combat, Tantra is easy to jump into.
 
 Documentation to manage and administer your own online server.
@@ -27,45 +27,27 @@ Documentation to manage and administer your own online server.
 - [SQLServer](https://www.microsoft.com/sql-server) 2008 or high
 - [Apache Server](https://httpd.apache.org) / [XAMPP](https://www.apachefriends.org) / [WAMPP](https://www.wampserver.com)
 
-### Quick start: Use as a GitHub Pages remote theme
+### How to get the required files?
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+1. [Register](https://www.ko-fi.com) on ko-fi page
 
-### Local installation: Use the gem-based theme
+![](assets/images/index/register.png)
 
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
+2. [Follow](https://ko-fi.com/fernandocalmet) to the developer page
 
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+![](assets/images/index/follow.png)
 
-### Configure Just the Docs
+3. Get your [Commission](https://ko-fi.com/fernandocalmet/commissions) package for Tantra Online for a single payment. This package allows you to access the private repository for Tantra Online + Private chat / email support with the responsible developer.
+
+![](assets/images/index/commission.png)
+
+4. [Subscribe](https://ko-fi.com/fernandocalmet) for a month to have the commission package privileges for Tantra Online
+
+<small>While you have your active subscription the privileges of the commission are maintained. If you no longer want to continue with this privilege you can cancel the payment whenever you want from your paypal page.</small>
+
+![](assets/images/index/subscribe.png)
+
+### Configure Game Server
 
 - [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 
