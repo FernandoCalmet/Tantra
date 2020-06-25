@@ -8,8 +8,8 @@ last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
 # Overview
-{: .fs-9 }
 
+{: .fs-9 }
 Tantra Online is a simple, fast paced 3D MMORPG set in an oriental fantasy world. Set in an oriental environment with 8 playable tribes and a PvP focused gameplay. With a high experience rate and simple combat, Tantra is easy to jump into.
 
 Documentation to manage and administer your own online server.
@@ -23,7 +23,9 @@ Documentation to manage and administer your own online server.
 
 ### Dependencies
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+- [Windows Server](https://www.microsoft.com/windows-server) 2008 or high
+- [SQLServer](https://www.microsoft.com/sql-server) 2008 or high
+- [Apache Server](https://httpd.apache.org) / [XAMPP](https://www.apachefriends.org) / [WAMPP](https://www.wampserver.com)
 
 ### Quick start: Use as a GitHub Pages remote theme
 
