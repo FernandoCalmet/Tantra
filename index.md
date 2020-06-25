@@ -29,19 +29,19 @@ Documentation to manage and administer your own online server.
 
 ### How to get the required files?
 
-- [Register](https://www.ko-fi.com) on ko-fi page.
+- <b>STEP #1</b>: [Register](https://www.ko-fi.com) on ko-fi page.
 
 ![register](assets/images/index/register.png)
 
-- [Follow](https://ko-fi.com/fernandocalmet) to the developer page.
+- <b>STEP #2</b>: [Follow](https://ko-fi.com/fernandocalmet) to the developer page.
 
 ![follow](assets/images/index/follow.png)
 
-- Get your [Commission](https://ko-fi.com/fernandocalmet/commissions) package for Tantra Online for a single payment. This package allows you to access the private repository for Tantra Online + Private support by chat / email with the responsible developer.
+- <b>STEP #3</b>: Get your [Commission](https://ko-fi.com/fernandocalmet/commissions) package for Tantra Online for a single payment. This package allows you to access the private repository for Tantra Online + Private support by chat / email with the responsible developer.
 
 ![comission](assets/images/index/commission.png)
 
-- [Subscribe](https://ko-fi.com/fernandocalmet) with a Coffee monthly to have the commission package privileges active for Tantra Online.
+- <b>STEP #4</b>: [Subscribe](https://ko-fi.com/fernandocalmet) with a Coffee monthly to have the commission package privileges active for Tantra Online.
 
 <small style="color:#FF5E5B">While you have your active subscription the privileges of the commission are maintained. If you no longer want to continue with this privilege you can cancel the payment whenever you want from your paypal page.</small>
 
