@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: GameClient Structure
 nav_order: 6
 ---
 
