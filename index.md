@@ -47,7 +47,7 @@ Documentation to manage and administer your own online server.
 
 ![subscribe](assets/images/index/subscribe.png)
 
-### Configure Game Server
+### Setup your own Server
 
 - [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 
