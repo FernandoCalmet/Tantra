@@ -14,6 +14,14 @@ $body-heading-line-height: 1.25 !default;
 // Colors
 //
 
+$custom-red-000: #FFE7E6 !default;
+$custom-red-100: #ED687C !default;
+$custom-red-200: #FF5E5B !default;
+
+$custom-blue-000: #CFECF8 !default;
+$custom-blue-100: #70C7EA !default;
+$custom-blue-200: #29ABE0 !default;
+
 $white: #fff !default;
 
 $grey-dk-000: #959396 !default;
@@ -62,8 +70,8 @@ $body-text-color: $grey-dk-100 !default;
 $body-heading-color: $grey-dk-300 !default;
 $search-result-preview-color: $grey-dk-000 !default;
 $nav-child-link-color: $grey-dk-100 !default;
-$link-color: $purple-000 !default;
-$btn-primary-color: $purple-100 !default;
+$link-color: $custom-blue-200 !default;
+$btn-primary-color: $custom-red-200 !default;
 $base-button-color: #f7f7f7 !default;
 
 //
