@@ -43,7 +43,7 @@ Documentation to manage and administer your own online server.
 
 4. [Subscribe](https://ko-fi.com/fernandocalmet) for a month to have the commission package privileges for Tantra Online
 
-<small>While you have your active subscription the privileges of the commission are maintained. If you no longer want to continue with this privilege you can cancel the payment whenever you want from your paypal page.</small>
+<small style="color:#FF5E5B">While you have your active subscription the privileges of the commission are maintained. If you no longer want to continue with this privilege you can cancel the payment whenever you want from your paypal page.</small>
 
 ![](assets/images/index/subscribe.png)
 
