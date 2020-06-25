@@ -52,9 +52,9 @@ Welcome to the documentation of the video-game Tantra Online. This page shows ho
 
 > [Subscribe](https://ko-fi.com/fernandocalmet) with a Coffee monthly to have the commission package privileges active for Tantra Online.
   
-<small style="color:#ED687C">*While you have your active subscription the privileges of the commission are maintained. If you no longer want to continue with this privilege you can cancel the payment whenever you want from your paypal page.</small>
-
 ![subscribe](assets/images/index/subscribe.png)
+
+<small style="color:#ED687C">*While you have your active subscription the privileges of the commission are maintained. If you no longer want to continue with this privilege you can cancel the payment whenever you want from your paypal page.</small>
 
 ### Setup your own Server
 
