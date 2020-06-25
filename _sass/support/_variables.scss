@@ -1,9 +1,11 @@
 //
 // Typography
 //
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,400&display=swap');
 
 $body-font-family: -apple-system, BlinkMacSystemFont, "helvetica neue",
   helvetica, roboto, noto, "segoe ui", arial, sans-serif !default;
+$nunito-font-family: 'Nunito', sans-serif;
 $mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace !default;
 $root-font-size: 16px !default; // Base font-size for rems
 $body-line-height: 1.4 !default;
