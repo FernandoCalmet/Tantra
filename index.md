@@ -29,35 +29,31 @@ Documentation to manage and administer your own online server.
 
 ### How to get the required files?
 
-- [Register](https://www.ko-fi.com) on ko-fi page.
-{: .d-inline-block }
-
 Step 1
 {: .label .label-custom-red }
 
-![register](assets/images/index/register.png)
+- [Register](https://www.ko-fi.com) on ko-fi page.
 
-- [Follow](https://ko-fi.com/fernandocalmet) to the developer page.
-{: .d-inline-block }
+![register](assets/images/index/register.png)
 
 Step 2
 {: .label .label-custom-red }
 
-![follow](assets/images/index/follow.png)
+- [Follow](https://ko-fi.com/fernandocalmet) to the developer page.
 
-- Get your [Commission](https://ko-fi.com/fernandocalmet/commissions) package for Tantra Online for a single payment. This package allows you to access the private repository for Tantra Online + Private support by chat / email with the responsible developer.
-{: .d-inline-block }
+![follow](assets/images/index/follow.png)
 
 Step 3
 {: .label .label-custom-red }
 
-![comission](assets/images/index/commission.png)
+- Get your [Commission](https://ko-fi.com/fernandocalmet/commissions) package for Tantra Online for a single payment. This package allows you to access the private repository for Tantra Online + Private support by chat / email with the responsible developer.
 
-- [Subscribe](https://ko-fi.com/fernandocalmet) with a Coffee monthly to have the commission package privileges active for Tantra Online.
-{: .d-inline-block }
+![comission](assets/images/index/commission.png)
 
 Step 4
 {: .label .label-custom-red }
+
+- [Subscribe](https://ko-fi.com/fernandocalmet) with a Coffee monthly to have the commission package privileges active for Tantra Online.
 
 <small style="color:#ED687C">While you have your active subscription the privileges of the commission are maintained. If you no longer want to continue with this privilege you can cancel the payment whenever you want from your paypal page.</small>
 
