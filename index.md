@@ -7,13 +7,15 @@ permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
-# Focus on writing good documentation
+# Overview
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Tantra Online is a simple, fast paced 3D MMORPG set in an oriental fantasy world. Set in an oriental environment with 8 playable tribes and a PvP focused gameplay. With a high experience rate and simple combat, Tantra is easy to jump into.
+
+Documentation to manage and administer your own online server.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Get Private Support](https://ko-fi.com/fernandocalmet/commissions){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
