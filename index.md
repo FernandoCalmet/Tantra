@@ -7,13 +7,10 @@ permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
-# Overview
+# Developer Documentation
 
-{: .fs-4 }
-Tantra Online is a simple, fast paced 3D MMORPG set in an oriental fantasy world. Set in an oriental environment with 8 playable tribes and a PvP focused gameplay. With a high experience rate and simple combat, Tantra is easy to jump into.
-
-Documentation to manage and administer your own online server.
-{: .fs-6 .fw-300 }
+Welcome to the documentation of the video-game Tantra Online. This page shows how to install, configure and manage your own server.
+{: .fs-4 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Get Private Support](https://ko-fi.com/fernandocalmet/commissions){: .btn .fs-5 .mb-4 .mb-md-0 }
 
@@ -55,7 +52,7 @@ Documentation to manage and administer your own online server.
 
 > [Subscribe](https://ko-fi.com/fernandocalmet) with a Coffee monthly to have the commission package privileges active for Tantra Online.
   
-<small style="color:#ED687C">While you have your active subscription the privileges of the commission are maintained. If you no longer want to continue with this privilege you can cancel the payment whenever you want from your paypal page.</small>
+<small style="color:#ED687C">*While you have your active subscription the privileges of the commission are maintained. If you no longer want to continue with this privilege you can cancel the payment whenever you want from your paypal page.</small>
 
 ![subscribe](assets/images/index/subscribe.png)
 
