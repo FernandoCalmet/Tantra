@@ -3,8 +3,7 @@
 //
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
 
-$body-font-family: -apple-system, BlinkMacSystemFont, "helvetica neue",
-  helvetica, roboto, noto, "segoe ui", arial, sans-serif !default;
+$body-font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif !default;
 $nunito-font-family: 'Nunito', sans-serif;
 $mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace !default;
 $root-font-size: 16px !default; // Base font-size for rems
@@ -15,23 +14,6 @@ $body-heading-line-height: 1.25 !default;
 //
 // Colors
 //
-
-$custom-red-000: #FFE7E6 !default;
-$custom-red-100: #ED687C !default;
-$custom-red-200: #FF5E5B !default;
-
-$custom-yellow-000: #FFF3D7 !default;
-$custom-yellow-100: #FFDC87 !default;
-$custom-yellow-200: #FFCB4C !default;
-
-$custom-green-000: #9BE9A8 !default;
-$custom-green-100: #40C463 !default;
-$custom-green-200: #30A14E !default;
-$custom-green-300: #216E39 !default;
-
-$custom-blue-000: #CFECF8 !default;
-$custom-blue-100: #70C7EA !default;
-$custom-blue-200: #29ABE0 !default;
 
 $white: #fff !default;
 
@@ -70,6 +52,26 @@ $red-000: #f77e7e !default;
 $red-100: #f96e65 !default;
 $red-200: #e94c4c !default;
 $red-300: #dd2e2e !default;
+
+$custom-red-000: #FFE7E6 !default;
+$custom-red-100: #ED687C !default;
+$custom-red-200: #FF5E5B !default;
+$custom-red-300: #AA3E3C !default;
+
+$custom-yellow-000: #FFF3D7 !default;
+$custom-yellow-100: #FFDC87 !default;
+$custom-yellow-200: #FFCB4C !default;
+$custom-yellow-300: #AA8732 !default;
+
+$custom-green-000: #9BE9A8 !default;
+$custom-green-100: #40C463 !default;
+$custom-green-200: #30A14E !default;
+$custom-green-300: #216E39 !default;
+
+$custom-blue-000: #CFECF8 !default;
+$custom-blue-100: #70C7EA !default;
+$custom-blue-200: #29ABE0 !default;
+$custom-blue-300: #1B7295 !default;
 
 $body-background-color: $white !default;
 $sidebar-color: $grey-lt-000 !default;
