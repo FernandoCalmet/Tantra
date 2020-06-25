@@ -29,23 +29,23 @@ Documentation to manage and administer your own online server.
 
 ### How to get the required files?
 
-1. [Register](https://www.ko-fi.com) on ko-fi page
+- [Register](https://www.ko-fi.com) on ko-fi page.
 
-![](assets/images/index/register.png)
+![register](assets/images/index/register.png)
 
-2. [Follow](https://ko-fi.com/fernandocalmet) to the developer page
+- [Follow](https://ko-fi.com/fernandocalmet) to the developer page.
 
-![](assets/images/index/follow.png)
+![follow](assets/images/index/follow.png)
 
-3. Get your [Commission](https://ko-fi.com/fernandocalmet/commissions) package for Tantra Online for a single payment. This package allows you to access the private repository for Tantra Online + Private chat / email support with the responsible developer.
+- Get your [Commission](https://ko-fi.com/fernandocalmet/commissions) package for Tantra Online for a single payment. This package allows you to access the private repository for Tantra Online + Private support by chat / email with the responsible developer.
 
-![](assets/images/index/commission.png)
+![comission](assets/images/index/commission.png)
 
-4. [Subscribe](https://ko-fi.com/fernandocalmet) for a month to have the commission package privileges for Tantra Online
+- [Subscribe](https://ko-fi.com/fernandocalmet) with a Coffee monthly to have the commission package privileges active for Tantra Online.
 
 <small style="color:#FF5E5B">While you have your active subscription the privileges of the commission are maintained. If you no longer want to continue with this privilege you can cancel the payment whenever you want from your paypal page.</small>
 
-![](assets/images/index/subscribe.png)
+![subscribe](assets/images/index/subscribe.png)
 
 ### Configure Game Server
 
@@ -59,9 +59,9 @@ Khanakat is &copy; 2010-{{ "now" | date: "%Y" }} by [Fernando Calmet](https://ko
 
 ### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/khanakat/TantraOnline/blob/master/LICENSE.txt).
+Tantra Online Docs is distributed by an [MIT license](https://github.com/khanakat/TantraOnline/blob/master/LICENSE.txt).
 
-#### Thank you to the contributors of Just the Docs!
+#### Thank you to the contributors of Tantra Online Docs!
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
@@ -73,6 +73,6 @@ Just the Docs is distributed by an [MIT license](https://github.com/khanakat/Tan
 
 ### Code of Conduct
 
-Just the Docs is committed to fostering a welcoming community.
+Tantra Online Docs is committed to fostering a welcoming community.
 
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+[View our Code of Conduct](https://github.com/khanakat/TantraOnline/blob/master/CODE_OF_CONDUCT.md) on our GitHub repository.
