@@ -28,33 +28,33 @@ Documentation to manage and administer your own online server.
 - [Apache Server](https://httpd.apache.org) / [XAMPP](https://www.apachefriends.org) / [WAMPP](https://www.wampserver.com)
 
 ### How to get the required files?
-
+  
 Step 1
 {: .label .label-custom-red }
 
-- [Register](https://www.ko-fi.com) on ko-fi page.
+> [Register](https://www.ko-fi.com) on ko-fi page.
 
 ![register](assets/images/index/register.png)
 
 Step 2
 {: .label .label-custom-red }
 
-- [Follow](https://ko-fi.com/fernandocalmet) to the developer page.
+> [Follow](https://ko-fi.com/fernandocalmet) to the developer page.
 
 ![follow](assets/images/index/follow.png)
 
 Step 3
 {: .label .label-custom-red }
 
-- Get your [Commission](https://ko-fi.com/fernandocalmet/commissions) package for Tantra Online for a single payment. This package allows you to access the private repository for Tantra Online + Private support by chat / email with the responsible developer.
+> Get your [Commission](https://ko-fi.com/fernandocalmet/commissions) package for Tantra Online for a single payment. This package allows you to access the private repository for Tantra Online + Private support by chat / email with the responsible developer.
 
 ![comission](assets/images/index/commission.png)
 
 Step 4
 {: .label .label-custom-red }
 
-- [Subscribe](https://ko-fi.com/fernandocalmet) with a Coffee monthly to have the commission package privileges active for Tantra Online.
-
+> [Subscribe](https://ko-fi.com/fernandocalmet) with a Coffee monthly to have the commission package privileges active for Tantra Online.
+  
 <small style="color:#ED687C">While you have your active subscription the privileges of the commission are maintained. If you no longer want to continue with this privilege you can cancel the payment whenever you want from your paypal page.</small>
 
 ![subscribe](assets/images/index/subscribe.png)
