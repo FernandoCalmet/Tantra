@@ -1,7 +1,3 @@
----
-sort: 2
----
-
-# file2
+# Remove Items
 
 source: `{{ page.path }}`

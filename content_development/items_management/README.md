@@ -1,3 +1,3 @@
-# I'm folder1
+# Items Management
 
 source: `{{ page.path }}`

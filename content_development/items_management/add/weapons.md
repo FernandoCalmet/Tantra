@@ -1,7 +1,7 @@
 ---
-sort: 3
+sort: 2
 ---
 
-# file3
+# Add new Weapons
 
 source: `{{ page.path }}`
