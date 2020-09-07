@@ -1,8 +1,8 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# Configuration
+# Instalation
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
