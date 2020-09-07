@@ -1,4 +1,4 @@
-# Tantra Online Devs Documentation
+# Tantra Devs
 
 [View Docs](https://fernandocalmet.github.io/tantra)
 
