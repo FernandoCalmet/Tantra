@@ -1,3 +1,3 @@
-# Add Armours
+# Add Decorations
 
 source: `{{ page.path }}`

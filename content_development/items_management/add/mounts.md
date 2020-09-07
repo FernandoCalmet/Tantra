@@ -1,3 +1,3 @@
-# Add Armours
+# Add Mounts
 
 source: `{{ page.path }}`
