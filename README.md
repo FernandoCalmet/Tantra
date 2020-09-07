@@ -1,6 +1,6 @@
-# Tantra Devs
+# Tantra Docs
 
-[View Docs](https://fernandocalmet.github.io/tantra)
+[View Docs Page](https://fernandocalmet.github.io/tantra)
 
 The purpose of this page is to document the content of the Tantra Online video game. Include information on game aspects and also guides for server developers.
 
