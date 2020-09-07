@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Add new Commons Items
+# Add Commons Items
 
 source: `{{ page.path }}`

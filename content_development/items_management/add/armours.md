@@ -2,6 +2,6 @@
 sort: 3
 ---
 
-# Add new Armours
+# Add Armours
 
 source: `{{ page.path }}`

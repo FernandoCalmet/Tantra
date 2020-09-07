@@ -2,6 +2,6 @@
 sort: 2
 ---
 
-# Add new Weapons
+# Add Weapons
 
 source: `{{ page.path }}`
