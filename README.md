@@ -1,6 +1,6 @@
 # Tantra Online Devs Documentation
 
-## [View Tantra Documentation](https://fernandocalmet.github.io/tantra)
+[View Docs](https://fernandocalmet.github.io/tantra)
 
 :octocat: [Check more about me.](https://github.com/FernandoCalmet)
 
