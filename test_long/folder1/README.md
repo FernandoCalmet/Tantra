@@ -1,3 +1,3 @@
-# I'm folder1
+# Basic Guide
 
 source: `{{ page.path }}`
