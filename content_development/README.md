@@ -1,8 +1,8 @@
 ---
-sort: 4
+sort: 3
 ---
 
-# Game Guide
+# Game Development
 
 ```
 {% include list.liquid all=true %}
