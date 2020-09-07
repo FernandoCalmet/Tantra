@@ -12,3 +12,5 @@ ID | NAME | CAP LEVEL
 5 | Taiwan | 149
 6 | Mexico | 199
 7 | Global | 109
+
+source: `{{ page.path }}`
