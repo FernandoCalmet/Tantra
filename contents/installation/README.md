@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Instalation
+# Installation
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
