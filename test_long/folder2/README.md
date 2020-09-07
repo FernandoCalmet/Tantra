@@ -1,3 +1,3 @@
-# I'm folder2
+# Quickstart
 
 source: `{{ page.path }}`
