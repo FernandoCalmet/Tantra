@@ -67,5 +67,15 @@ Money | From 7081 to 7085
 Usable | From 7092 to 7100
 Misc. Collect | From 7101 to 8000
 Quest Collect | From 8001 to 8200
+Pants Normal | From 8201 to 8305
+Helmet Normal | From 8306 to 8440
+Gloves Normal | From 8441 to 8525
+Shoes Normal | From 8526 to 8605
+Armor Normal | From 8606 to 8680
+Usable | From 8681 to 8800
+Pet | From 8801 to 8900
+Hanboks | From 8901 to 9400
+Board Quest | From 9401 to 9500
+Scroll Quest | From 9501 to 9509
 
 source: `{{ page.path }}`
