@@ -1,3 +1,3 @@
-# Add Commons Items
+# Add Commons
 
 source: `{{ page.path }}`

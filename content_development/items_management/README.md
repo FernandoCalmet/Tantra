@@ -1,7 +1,7 @@
 # Items Management
 
 ```note
-The types of items are restricted by certain ranges of rows. Which are:
+The types of items are restricted by certain ranges of rows.
 ```
 
 Sort | ID Range
