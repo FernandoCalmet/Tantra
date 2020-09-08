@@ -52,9 +52,20 @@ Small Inventory 2 Expand Item | 6301
 Big Inventory 2 Expand Item | 6302
 Small Inventory 2/3 Expand Item | 6305
 Big Inventory 2/3 Expand Item | 6306
-Chaturanga | 6307
+Chaturanga Board | 6307
 Ring Normal | From 6401 to 6441
 Ring Rare | From 6442 to 6485
 Ring Unique | From 6486 to 6500
+Refining | From 6501 to 6511
+Refining Sub Secondary | From 6551 to 6560
+Refining Sub Primary | From 6601 to 6636
+Usable | From 6701 to 6800
+Charge Continuance | From 6801 to 6950
+Charge Function | From 6951 to 6956
+Usable | From 7001 to 7080
+Money | From 7081 to 7085
+Usable | From 7092 to 7100
+Misc. Collect | From 7101 to 8000
+Quest Collect | From 8001 to 8200
 
 source: `{{ page.path }}`
