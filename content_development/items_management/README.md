@@ -45,5 +45,16 @@ Earring Unique | From 6086 to 6100
 Bracelet Normal | From 6101 to 6140
 Bracelet Rare | From 6141 to 6190
 Bracelet Unique | From 6191 to 6200
+Necklace Normal | From 6201 to 6242
+Necklace Rare | From 6243 to 6290
+Necklace Unique | From 6291 to 6300
+Small Inventory 2 Expand Item | 6301
+Big Inventory 2 Expand Item | 6302
+Small Inventory 2/3 Expand Item | 6305
+Big Inventory 2/3 Expand Item | 6306
+Chaturanga | 6307
+Ring Normal | From 6401 to 6441
+Ring Rare | From 6442 to 6485
+Ring Unique | From 6486 to 6500
 
 source: `{{ page.path }}`
