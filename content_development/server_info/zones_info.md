@@ -31,4 +31,8 @@ Zone32 | Marana High Level
 Zone33 | Paroksya
 Zone34 | Dragon Grave
 
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+
 source: `{{ page.path }}`

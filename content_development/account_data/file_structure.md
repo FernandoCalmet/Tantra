@@ -84,4 +84,8 @@ TAD | TCD1 | TCD2 | TCD3 | ATTRIBUTE
 7073 | `_` | `_` | `_` | ?
 7124 | `_` | `_` | `_` | Tantra Account Data path
 
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+
 source: `{{ page.path }}`

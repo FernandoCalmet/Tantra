@@ -131,4 +131,8 @@ allocate the chakra points according to their preference and need.
 * ATST - at the same time.
 * OOW - on our way.
 
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+
 source: `{{ page.path }}`

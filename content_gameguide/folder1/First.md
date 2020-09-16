@@ -43,4 +43,8 @@ Do not be satisfied there if you get weapons and armor with TANTRA. Let's refine
 
 ![img13](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/guides/first/13.jpg)
 
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+
 source: `{{ page.path }}`

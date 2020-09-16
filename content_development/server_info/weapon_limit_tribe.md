@@ -8,4 +8,8 @@ iLimitTribe | Type
 48 | One hand Dull Weapon / Battle Weapon
 192 | One hand Staff / Two hand Staff
 
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+
 source: `{{ page.path }}`

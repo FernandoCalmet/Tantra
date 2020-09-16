@@ -10,4 +10,8 @@ ID | Name
 10393 | Brahman Memory Maiden
 10394 | Shivan Memory Maiden
 
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+
 source: `{{ page.path }}`

@@ -39,3 +39,7 @@ sort: 3
 ![img17](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/installation/sqlserver/17.png)
 
 ![img18](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/installation/sqlserver/18.png)
+
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)

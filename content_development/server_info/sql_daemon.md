@@ -20,4 +20,8 @@ Every ZoneServer get these files and set the daily god grade per every character
 
 4. Link the Rank folder as network drive “K” , on the computer which is set every ZoneServer of each world.
 
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+
 source: `{{ page.path }}`

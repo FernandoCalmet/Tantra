@@ -38,4 +38,8 @@ ID | DESCRIPCION
 7659 | All Power Strike Attack rate 5% increase
 7660 | All Power Strike Attack rate 7% increase
 
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+
 source: `{{ page.path }}`

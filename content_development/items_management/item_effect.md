@@ -262,4 +262,8 @@ ID | NAME | DESCRIPTION
 10040 | IWantIt | `_`
 10041 | MicroSound | `_`
 
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+
 source: `{{ page.path }}`

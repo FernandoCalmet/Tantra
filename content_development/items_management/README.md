@@ -78,4 +78,8 @@ Hanboks | From 8901 to 9400
 Board Quest | From 9401 to 9500
 Scroll Quest | From 9501 to 9509
 
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+
 source: `{{ page.path }}`

@@ -11,4 +11,8 @@ ID | DESCRIPTION | NOTES
 8 | Herborie and mining | Increase the experience rate
 11 | Brahman Points | `_`
 
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+
 source: `{{ page.path }}`
