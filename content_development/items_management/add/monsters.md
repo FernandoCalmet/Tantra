@@ -34,8 +34,6 @@ Here we are going to see the following sheets:
 
 In the `MonText` sheet, we are on the last line to add the texture resource. The extension of the texture file is `DDS`.
 
-![ClientRes.xml : Add new texture line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/03.png)
-
 For this example we will add:
 
 ```note
@@ -43,7 +41,35 @@ ID: 13399
 File: MON_Ancient_Vasabhum.dds
 ```
 
+![ClientRes.xml : Add new texture line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/03.png)
+
 ### Animation
+
+In the `MonAni` sheet, we are on the last line to add the animation resource. The extension of the animation file is `TAB`.
+
+For this example we will add:
+
+```note
+ID: 53417  
+File: MON_Ancient_Vasabhum_STD.tab
+
+ID: 53418  
+File: MON_Ancient_Vasabhum_IDL.tab
+
+ID: 53419  
+File: MON_Ancient_Vasabhum_WLK.tab
+
+ID: 53420  
+File: MON_Ancient_Vasabhum_RUN.tab
+
+ID: 53421  
+File: MON_Ancient_Vasabhum_HIT.tab
+
+ID: 53422  
+File: MON_Ancient_Vasabhum_DIE.tab
+```
+
+![ClientRes.xml : Add new animation line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/04.png)
 
 ### Model 3D
 
