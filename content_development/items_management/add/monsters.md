@@ -118,9 +118,43 @@ MonFXID: 61002
 Scale: 90
 ```
 
+![ClientRes.xml : Add new monster assembly line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/06.png)
+
 It is worth mentioning that the added attributes are relative to the model, some models have more parts and others less.
 
+## Add resources to the client
+
+The files configured in the XML must be added in the following directories:
+
+```note
+- resource/object/Monster/MonsterTex2.hpk : MON_Ancient_Vasabhum.dds
+
+- resource/object/Monster/Ani : File: MON_Ancient_Vasabhum_STD.tab, File: MON_Ancient_Vasabhum_IDL.tab, File: MON_Ancient_Vasabhum_WLK.tab, File: MON_Ancient_Vasabhum_RUN.tab, File: MON_Ancient_Vasabhum_ATK1.tab, File: MON_Ancient_Vasabhum_ATK2.tab, File: MON_Ancient_Vasabhum_HIT.tab, File: MON_Ancient_Vasabhum_DIE.tab
+
+- resource/object/Monster/Mesh : MON_Ancient_Vasabhum.tmb
+```
+
+First the hpk file must be unpacked, in the case of textures, the `HPK2Files` tool is used for this. Choose the option `HPK2 => Files`.
+
+![ClientRes.xml : Unpack hpk file](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/07.png)
+
+Now, for the client to interpret the added files, the resources must be added to the `MonsterTex2.csv` file.
+
+Add a line at the end with the resources. This file can be opened with notepad or another text editor.
+
+```note
+MON_Ancient_Vasabhum.dds,42064,16013715
+```
+
+Now we repackage it with the tool `HPK2Files` `Files => hpk`.
+
+Go to the package folder and extract (copy) the generated `MonsterTex2.hpk` file, to replace it in a previous path.
+
 ## Test result
+
+To test the changes made. We open the compilation tool for XML `XML2TXL`. We do the conversion: `Convert S_Param, Convert_CParam, ClientRes`.
+
+We paste the files `Clientres.txl` and `TantraParam.txl` in the Client's system folder. We rename the file `TantraParam_tpa.txl` by `TantraParam.txl` and replace it on the server, in the corresponding zone folder.
 
 ---
 
