@@ -100,21 +100,21 @@ For this example we will add:
 
 ```note
 ID: 3785  
-Name: Ancient Vasabhum
-NumMesh: 1
-BasicModel: 12294
-Mesh1: 12294
-Tex1: 13399
-STD: 53417
-IDL: 53418
-WLK: 53419
-RUN: 53420
-ATK1: 53421
-ATK2: 53422
-HIT: 53423
-DIE: 53424
-Material_ID: 9991
-MonFXID: 61002
+Name: Ancient Vasabhum  
+NumMesh: 1  
+BasicModel: 12294  
+Mesh1: 12294  
+Tex1: 13399  
+STD: 53417  
+IDL: 53418  
+WLK: 53419  
+RUN: 53420  
+ATK1: 53421  
+ATK2: 53422  
+HIT: 53423  
+DIE: 53424  
+Material_ID: 9991  
+MonFXID: 61002  
 Scale: 90
 ```
 
