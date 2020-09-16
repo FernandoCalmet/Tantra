@@ -127,11 +127,11 @@ It is worth mentioning that the added attributes are relative to the model, some
 The files configured in the XML must be added in the following directories:
 
 ```note
-- resource/object/Monster/MonsterTex2.hpk : MON_Ancient_Vasabhum.dds
-
-- resource/object/Monster/Ani : File: MON_Ancient_Vasabhum_STD.tab, File: MON_Ancient_Vasabhum_IDL.tab, File: MON_Ancient_Vasabhum_WLK.tab, File: MON_Ancient_Vasabhum_RUN.tab, File: MON_Ancient_Vasabhum_ATK1.tab, File: MON_Ancient_Vasabhum_ATK2.tab, File: MON_Ancient_Vasabhum_HIT.tab, File: MON_Ancient_Vasabhum_DIE.tab
-
-- resource/object/Monster/Mesh : MON_Ancient_Vasabhum.tmb
+- **resource/object/Monster/MonsterTex2.hpk** : MON_Ancient_Vasabhum.dds
+  
+- **resource/object/Monster/Ani** : MON_Ancient_Vasabhum_STD.tab, MON_Ancient_Vasabhum_IDL.tab, MON_Ancient_Vasabhum_WLK.tab, MON_Ancient_Vasabhum_RUN.tab, MON_Ancient_Vasabhum_ATK1.tab, MON_Ancient_Vasabhum_ATK2.tab, MON_Ancient_Vasabhum_HIT.tab,  MON_Ancient_Vasabhum_DIE.tab
+  
+- **resource/object/Monster/Mesh** : MON_Ancient_Vasabhum.tmb
 ```
 
 First the hpk file must be unpacked, in the case of textures, the `HPK2Files` tool is used for this. Choose the option `HPK2 => Files`.
