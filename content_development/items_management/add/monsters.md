@@ -154,7 +154,9 @@ Go to the package folder and extract (copy) the generated `MonsterTex2.hpk` file
 
 To test the changes made. We open the compilation tool for XML `XML2TXL`. We do the conversion: `Convert S_Param, Convert_CParam, ClientRes`.
 
-We paste the files `Clientres.txl` and `TantraParam.txl` in the Client's system folder. We rename the file `TantraParam_tpa.txl` by `TantraParam.txl` and replace it on the server, in the corresponding zone folder.
+We paste the files `Clientres.txl` and `TantraParam.tpa` in the Client's `system folder`. We rename the file `TantraParam_tpa.tpa` by `TantraParam.tpa` and replace it on the server, in the corresponding zone folder.
+
+We enter the game and invoke the ID of the monster that we created in the `TantraParam.xml`
 
 ---
 
