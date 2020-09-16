@@ -1,3 +1,3 @@
-# Remove Items
+# Add NPC
 
 source: `{{ page.path }}`
