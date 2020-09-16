@@ -4,7 +4,7 @@
 
 Open the file TantraParam.xml and we locate ourselves in the `Monster` sheet.
 
-![TantraParam.xml](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/01.png)
+![TantraParam.xml: Open](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/01.png)
 
 Go to the last line to add a new ID, which we must verify that it does not exist.
 
@@ -17,6 +17,6 @@ ID: 3777
 Name: Ancient Vasabhum
 ```
 
-![TantraParam.xml](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/02.png)
+![TantraParam.xml : Add new monster line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/02.png)
 
 source: `{{ page.path }}`
