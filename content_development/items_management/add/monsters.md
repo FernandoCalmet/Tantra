@@ -4,6 +4,6 @@
 
 Open the file TantraParam.xml and we locate ourselves in the `Monster` sheet.
 
-![TantraParam.xml](/extras/img/development/items_management/monster/01.png)
+![TantraParam.xml](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/01.png)
 
 source: `{{ page.path }}`
