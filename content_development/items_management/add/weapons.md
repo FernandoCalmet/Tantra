@@ -111,6 +111,18 @@ Go to the package folder and extract (copy) the generated `MonsterTex2.hpk` file
 
 ### Item Assembly
 
+In the `MAINUI` sheet, we are on the last line to add all references resource of the icon.
+
+For this example we will add:
+
+```note
+ID: 76318  
+Name: 19th Sword 2H  
+File: icon_wpn_19th_sword2h.bmp
+```
+
+![Main_Item.hpk: Insert icon line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/07.png)
+
 In the `Item` sheet, we are on the last line to add all references resource of the model.
 
 For this example we will add:
@@ -124,6 +136,8 @@ ModelTexID: 24409
 Inventory_Tex_ID: icon_wpn_19th_sword2h.bmp
 ```
 
+![Main_Item.hpk: Insert item assembly line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/08.png)
+
 ## Step 3
 
 ### Test result
@@ -134,7 +148,7 @@ We paste the files `Clientres.txl` and `TantraParam.tpa` in the Client's `system
 
 We introduce the weapon created to our account using `GMTool.exe`.
 
-![Clientres.xml: Insert item assembly line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/07.png)
+![Client: Test](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/09.png)
 
 ---
 
