@@ -122,7 +122,9 @@ Scale: 90
 
 It is worth mentioning that the added attributes are relative to the model, some models have more parts and others less.
 
-## Add resources to the client
+## Step 3
+
+### Add resources to the client
 
 The files configured in the XML must be added in the following directories:
 
@@ -150,7 +152,9 @@ Now we repackage it with the tool `HPK2Files` `Files => hpk`.
 
 Go to the package folder and extract (copy) the generated `MonsterTex2.hpk` file, to replace it in a previous path.
 
-## Test result
+## Step 4
+
+### Test result
 
 To test the changes made. We open the compilation tool for XML `XML2TXL`. We do the conversion: `Convert S_Param, Convert_CParam, ClientRes`.
 
