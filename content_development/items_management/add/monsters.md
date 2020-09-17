@@ -156,7 +156,13 @@ To test the changes made. We open the compilation tool for XML `XML2TXL`. We do 
 
 We paste the files `Clientres.txl` and `TantraParam.tpa` in the Client's `system folder`. We rename the file `TantraParam_tpa.tpa` by `TantraParam.tpa` and replace it on the server, in the corresponding zone folder.
 
-We enter the game and invoke the ID of the monster that we created in the `TantraParam.xml`
+Within the game we introduce the command to summon the new monster.
+
+```note
+/summon2 3785
+```
+
+![Client: Summon new monster](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/08.png)
 
 ---
 
