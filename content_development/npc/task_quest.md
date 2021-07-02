@@ -16,6 +16,20 @@ Zone Id | Zone Name | Task Quest ID | NPC Id | NPC Name | NPC Script Index
 1 | Mandara | 10006 | 1111 | Jeweler Nara | 304006
 1 | Mandara | 10007 | 1107 | Pharmacist Karan | 304007
 1 | Mandara | 10007 | 1111 | Jeweler Nara | 304007
+1 | Mandara | 10008 | 1107 | Pharmacist Karan | 304008
+1 | Mandara | 10008 | 1111 | Jeweler Nara | 304008
+1 | Mandara | 10009 | 1107 | Pharmacist Karan | 304009
+1 | Mandara | 10009 | 1111 | Jeweler Nara | 304009
+1 | Mandara | 10010 | 1107 | Pharmacist Karan | 304010
+1 | Mandara | 10010 | 1111 | Jeweler Nara | 304010
+1 | Mandara | 10011 | 1107 | Pharmacist Karan | 304011
+1 | Mandara | 10011 | 1111 | Jeweler Nara | 304011
+1 | Mandara | 10012 | 1107 | Pharmacist Karan | 304012
+1 | Mandara | 10012 | 1111 | Jeweler Nara | 304012
+1 | Mandara | 10013 | 1107 | Pharmacist Karan | 304013
+1 | Mandara | 10013 | 1111 | Jeweler Nara | 304013
+1 | Mandara | 10014 | 1107 | Pharmacist Karan | 304014
+1 | Mandara | 10014 | 1111 | Jeweler Nara | 304014
 
 ---
 
