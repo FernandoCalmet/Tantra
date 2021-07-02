@@ -28,13 +28,13 @@ Zone Id | Zone Name | NPC Id | NPC Name | Task Quest ID |  NPC Script Index
 11 | Chaturranga | 1257, 1258, 1259, 1260 | Wootpaz Irina, Wootpbiz Irina, Vadapaz Irina, Vadabid Irina | 10024  | ?
 11 | Chaturranga | 1257, 1258, 1259, 1260 | Wootpaz Irina, Wootpbiz Irina, Vadapaz Irina, Vadabid Irina | 10025  | ?
 11 | Chaturranga | 1257, 1258, 1259, 1260 | Wootpaz Irina, Wootpbiz Irina, Vadapaz Irina, Vadabid Irina | 10026  | ?
-2 | Shambala | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10027 | 300607
-2 | Shambala | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10028 | 300608
-2 | Shambala | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10029 | 300609
-2 | Shambala | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10030 | 300610
-2 | Shambala | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10031 | 300611
-2 | Shambala | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10032 | 300612
-2 | Shambala | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10033 | 300613
+2, 7, 9 | Shambala, Jina Town, Village of the Outcast | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10027 | 300607
+2, 7, 9 | Shambala, Jina Town, Village of the Outcast | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10028 | 300608
+2, 7, 9 | Shambala, Jina Town, Village of the Outcast | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10029 | 300609
+2, 7, 9 | Shambala, Jina Town, Village of the Outcast | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10030 | 300610
+2, 7, 9 | Shambala, Jina Town, Village of the Outcast | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10031 | 300611
+2, 7, 9 | Shambala, Jina Town, Village of the Outcast | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10032 | 300612
+2, 7, 9 | Shambala, Jina Town, Village of the Outcast | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10033 | 300613
 
 ---
 
