@@ -137,7 +137,6 @@ Zone Id | Zone Name | NPC Id | NPC Name | Task Quest ID |  NPC Script Index
 2 | Shambala | 1110 | Sacrificial Priest Saranu | 10133 | ?
 2 | Shambala | 1110 | Sacrificial Priest Saranu | 10134 | ?
 2 | Shambala | 1110 | Sacrificial Priest Saranu | 10135 | ?
-
 7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10136 | ?
 7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10137 | ?
 7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10138 | ?
