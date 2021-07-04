@@ -117,6 +117,42 @@ Zone Id | Zone Name | NPC Id | NPC Name | Task Quest ID |  NPC Script Index
 2 | Shambala | 1110 | Sacrificial Priest Saranu | 10113 | 300672
 2 | Shambala | 1110 | Sacrificial Priest Saranu | 10114 | 300673
 2 | Shambala | 1110 | Sacrificial Priest Saranu | 10115 | 300674
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10116 | ?
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10117 | ?
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10118 | ?
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10119 | ?
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10120 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10121 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10122 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10123 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10124 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10125 | ?
+? | ? | ? | ? | 10126 | ?
+? | ? | ? | ? | 10127 | ?
+? | ? | ? | ? | 10128 | ?
+? | ? | ? | ? | 10129 | ?
+? | ? | ? | ? | 10130 | ?
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10131 | ?
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10132 | ?
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10133 | ?
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10134 | ?
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10135 | ?
+
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10136 | ?
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10137 | ?
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10138 | ?
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10139 | ?
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10140 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10141 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10142 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10143 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10144 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10145 | ?
+? | ? | ? | ? | 10146 | ?
+? | ? | ? | ? | 10147 | ?
+? | ? | ? | ? | 10148 | ?
+? | ? | ? | ? | 10149 | ?
+? | ? | ? | ? | 10150 | ?
 
 ---
 
