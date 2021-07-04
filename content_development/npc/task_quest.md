@@ -72,21 +72,31 @@ Zone Id | Zone Name | NPC Id | NPC Name | Task Quest ID |  NPC Script Index
 2, 7, 9 | Shambala, Jina Town, Village of the Outcast | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10068 | 300648
 2, 7, 9 | Shambala, Jina Town, Village of the Outcast | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10069 | 300649
 2, 7, 9 | Shambala, Jina Town, Village of the Outcast | 1110, 1127, 1148 | Sacrificial Priest Saranu, Armor Salesman Wangddaopo, Farmer Shunongs | 10070 | 300650
-2 | Shambala | 1110 | Sacrificial Priest Saranu | 10071 | 300651
-2 | Shambala | 1110 | Sacrificial Priest Saranu | 10072 | 300652
-2 | Shambala | 1110 | Sacrificial Priest Saranu | 10073 | 300653
-2 | Shambala | 1110 | Sacrificial Priest Saranu | 10074 | 300654
-2 | Shambala | 1110 | Sacrificial Priest Saranu | 10075 | ?
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10071 | 300655
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10072 | 300656
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10073 | 300657
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10074 | 300658
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10075 | 300659
 7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10076 | ?
 7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10077 | ?
 7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10078 | ?
 7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10079 | ?
 7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10080 | ?
-9 | Village of the Outcast | 1148 | Farmer Shunongs | 10081 | ?
-9 | Village of the Outcast | 1148 | Farmer Shunongs | 10082 | ?
-9 | Village of the Outcast | 1148 | Farmer Shunongs | 10083 | ?
-9 | Village of the Outcast | 1148 | Farmer Shunongs | 10084 | ?
-9 | Village of the Outcast | 1148 | Farmer Shunongs | 10085 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10081 | 300660
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10082 | 300661
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10083 | 300662
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10084 | 300663
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10085 | 300664
+? | ? | ? | ? | 10086 | ?
+? | ? | ? | ? | 10087 | ?
+? | ? | ? | ? | 10088 | ?
+? | ? | ? | ? | 10089 | ?
+? | ? | ? | ? | 10090 | ?
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10091 | 300665
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10092 | 300666
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10093 | 300667
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10094 | 300668
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10095 | 300669
 
 ---
 
