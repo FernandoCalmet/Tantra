@@ -97,6 +97,26 @@ Zone Id | Zone Name | NPC Id | NPC Name | Task Quest ID |  NPC Script Index
 2 | Shambala | 1110 | Sacrificial Priest Saranu | 10093 | 300667
 2 | Shambala | 1110 | Sacrificial Priest Saranu | 10094 | 300668
 2 | Shambala | 1110 | Sacrificial Priest Saranu | 10095 | 300669
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10096 | ?
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10097 | ?
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10098 | ?
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10099 | ?
+7 | Jina Town | 1127 | Armor Salesman Wangddaopo | 10100 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10101 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10102 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10103 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10104 | ?
+9 | Village of the Outcast | 1148 | Farmer Shunongs | 10105 | ?
+? | ? | ? | ? | 10106 | ?
+? | ? | ? | ? | 10107 | ?
+? | ? | ? | ? | 10108 | ?
+? | ? | ? | ? | 10109 | ?
+? | ? | ? | ? | 10110 | ?
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10111 | 300670
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10112 | 300671
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10113 | 300672
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10114 | 300673
+2 | Shambala | 1110 | Sacrificial Priest Saranu | 10115 | 300674
 
 ---
 
