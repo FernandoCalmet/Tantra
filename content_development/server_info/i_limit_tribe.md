@@ -1,8 +1,8 @@
 # I Limite Tribe
 
 ```note
-File: TantraParam.xml
-Tab: Item
+File: TantraParam.xml  
+Tab: Item  
 Column: ILimiteTribe
 ```
 
