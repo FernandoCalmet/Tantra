@@ -1,5 +1,11 @@
 # Item Effect
 
+```note
+File: TantraParam.xml  
+Tab: Item  
+Column: byteClass
+```
+
 ID | NAME | DESCRIPTION
 -- | -- | --
 2 | NoDropNoEmail | In case of non-dropping and non-tradable, add 2 and 4 and the 6 should be used.
