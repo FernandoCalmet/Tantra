@@ -1,4 +1,4 @@
-# I Limite Tribe
+# Limite Tribe
 
 ```note
 File: TantraParam.xml  
