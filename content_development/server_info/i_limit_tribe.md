@@ -1,9 +1,9 @@
-# Limite Tribe
+# Limit Tribe
 
 ```note
 File: TantraParam.xml  
 Tab: Item  
-Column: ILimiteTribe
+Column: ILimitTribe
 ```
 
 ID | EXCLUSIVE FOR
