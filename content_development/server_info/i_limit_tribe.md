@@ -1,205 +1,205 @@
 # Limit Tribe
 
 ```note
-File: TantraParam.xml  
-Tab: Item  
+File: TantraParam.xml
+Tab: Item
 Column: ILimitTribe
 ```
 
-ID | EXCLUSIVE FOR
---- | ---
-1 | Naga
-2 | Kimnara
-3 | Naga/Kimnara
-4 | Asura
-5 | Naga/Asura
-6 | Asura/Kimnara
-7 | Naga/Asura/Kimnara
-8 | Rakshasa
-9 | Naga/Rakshasa
-10 | Kimnara/Rakshasa
-11 | Naga/Kimnara/Rakshasa
-12 | Asura/Rakshasa
-13 | Naga/Asura/Rakshasa
-14 | Asura/Kimnara/Rakshasa
-15 | Naga/Asura/Kimnara/Rakshasa
-16 | Yaksa
-17 | Naga/Yaksa
-18 | Yaksa/Kimnara
-19 | Naga/Yaksa/Kimnara
-20 | Asura/Yaksa
-21 | Naga/Asura/Yaksa
-22 | Asura/Yaksa/Kimnara
-23 | Naga/Asura/Yaksa/Kimnara
-24 | Yaksa/Rakshasa
-25 | Naga/Yaksa/Rakshasa
-26 | Yaksa/Kimnara/Rakshasa
-27 | Naga/Yaksa/Kimnara/Rakshasa
-28 | Asura/Yaksa/Rakshasa
-29 | Naga/Asura/Yaksa/Rakshasa
-30 | Asura/Yaksa/Kimnara/Rakshasa
-31 | Naga/Asura/Yaksa/Kimnara/Rakshasa
-32 | Gandharva
-33 | Naga/Gandharva
-34 | Kimnara/Gandharva
-35 | Naga/Kimnara/Gandharva
-36 | Asura/Gandharva
-37 | Naga/Asura/Gandharva
-38 | Asura/Kimnara/Gandharva
-39 | Naga/Asura/Kimnara/Gandharva
-40 | Rakshasa/Gandharva
-41 | Naga/Rakshasa/Gandharva
-42 | Kimnara/Rakshasa/Gandharva
-43 | Naga/Kimnara/Rakshasa/Gandharva
-44 | Asura/Rakshasa/Gandharva
-45 | Naga/Asura/Rakshasa/Gandharva
-46 | Asura/Kimnara/Rakshasa/Gandharva
-47 | Naga/Asura/Kimnara/Rakshasa/Gandharva
-48 | Yaksa/Gandharva
-49 | Naga/Yaksa/Gandharva
-50 | Yaksa/Kimnara/Gandharva
-51 | Naga/Yaksa/Kimnara/Gandharva
-52 | Asura/Yaksa/Gandharva
-53 | Naga/Asura/Yaksa/Gandharva
-54 | Asura/Yaksa/Kimnara/Gandharva
-55 | Naga/Asura/Yaksa/Kimnara/Gandharva
-56 | Yaksa/Rakshasa/Gandharva
-57 | Naga/Yaksa/Rakshasa/Gandharva
-58 | Yaksa/Kimnara/Rakshasa/Gandharva
-59 | Naga/Yaksa/Kimnara/Rakshasa/Gandharva
-60 | Asura/Yaksa/Rakshasa/Gandharva
-61 | Naga/Asura/Yaksa/Rakshasa/Gandharva
-62 | Asura/Yaksa/Kimnara/Rakshasa/Gandharva
-63 | Naga/Asura/Yaksa/Kimnara/Rakshasa/Gandharva
-64 | Deva
-65 | Naga/Deva
-66 | Deva/Kimnara
-67 | Naga/Deva/Kimnara
-68 | Asura/Deva
-69 | Naga/Asura/Deva
-70 | Asura/Deva/Kimnara
-71 | Naga/Asura/Deva/Kimnara
-72 | Deva/Rakshasa
-73 | Naga/Deva/Rakshasa
-74 | Deva/Kimnara/Rakshasa
-75 | Naga/Deva/Kimnara/Rakshasa
-76 | Asura/Deva/Rakshasa
-77 | Naga/Asura/Deva/Rakshasa
-78 | Asura/Deva/Kimnara/Rakshasa
-79 | Naga/Asura/Deva/Kimnara
-80 | Yaksa/Deva
-81 | Naga/Yaksa/Deva
-82 | Yaksa/Deva/Kimnara
-83 | Naga/Yaksa/Deva/Kimnara
-84 | Asura/Yaksa/Deva
-85 | Naga/Asura/Yaksa/Deva
-86 | Asura/Yaksa/Deva/Kimnara
-87 | Naga/Asura/Yaksa/Deva
-88 | Yaksa/Deva/Rakshasa
-89 | Naga/Yaksa/Deva/Rakshasa
-90 | Naga/Yaksa/Deva/Kimnara
-91 | Asura/Yaksa/Deva/Rakshasa
-92 | Naga/Asura/Yaksa/Deva
-93 | Asura/Yaksa/Deva/Kimnara
-94 | Naga/Asura/Yaksa/Deva/Kimnara/Rakshasa
-95 | Deva/Gandharva
-96 | Naga/Deva/Gandharva
-97 | Deva/Kimnara/Gandharva
-98 | Naga/Deva/Kimnara/Gandharva
-99 | Asura/Deva/Gandharva
-100 | Naga/Asura/Deva/Gandharva
-101 | Asura/Deva/Kimnara/Gandharva
-102 | Naga/Asura/Deva/Kimnara/Gandharva
-103 | Deva/Rakshasa/Gandharva
-104 | Naga/Deva/Rakshasa/Gandharva
-105 | Deva/Kimnara/Rakshasa/Gandharva
-106 | Naga/Deva/Kimnara/Rakshasa/Gandharva
-107 | Asura/Deva/Rakshasa/Gandharva
-108 | Naga/Asura/Deva/Rakshasa/Gandharva
-109 | Asura/Deva/Kimnara/Rakshasa/Gandharva
-110 | Naga/Asura/Deva/Kimnara/Rakshasa/Gandharva
-111 | Yaksa/Deva/Gandharva
-112 | Naga/Yaksa/Deva/Gandharva
-113 | Yaksa/Deva/Kimnara/Gandharva
-114 | Naga/Yaksa/Deva/Kimnara/Gandharva
-115 | Asura/Yaksa/Deva/Gandharva
-116 | Naga/Asura/Yaksa/Deva/Gandharva
-117 | Asura/Yaksa/Deva/Kimnara/Gandharva
-118 | Naga/Asura/Yaksa/Deva/Kimnara/Gandharva
-119 | Yaksa/Deva/Rakshasa/Gandharva
-120 | ?
-121 | Naga/Yaksa/Deva/Rakshasa/Gandharva
-122 | Yaksa/Deva/Kimanra/Rakshasa/Gandharva
-123 | Naga/Yaksa/Deva/Kimnara/Rakshasa/Gandharva
-124 | Asura/Yaksa/Deva/Rakshasa/Gandharva
-125 | Naga/Asura/Yaksa/Deva/Rakshasa/Gandharva
-126 | Asura/Yaksa/Deva/Kimnara/Rakshasa/Gandharva
-127 | Naga/Asura/Yaksa/Deva/Kimnara/Rakshasa/Gandharva
-128 | Garuda
-129 | Naga/Garuda
-130 | Kimnara/Garuda
-131 | Naga/Kimnara/Garuda
-132 | Asura/Garuda
-133 | Naga/Asura/Garuda
-134 | Asura/Kimnara/Garuda
-135 | Naga/Asura/Kimnara/Garuda
-136 | Rakshasa/Garuda
-137 | Naga/Rakshasa/Garuda
-138 | Kimnara/Rakshasa/Garuda
-139 | Naga/Kimnara/Rakshasa/Garuda
-140 | Asura/Rakshasa/Garuda
-141 | Naga/Asura/Rakshasa/Garuda
-142 | Asura/Kimnara/Rakshasa/Garuda
-143 | Naga/Asura/Kimnara/Rakshasa/Garuda
-144 | Yaksa/Garuda
-145 | Naga/Yaksa/Garuda
-146 | Yaksa/Kimnara/Garuda
-147 | Naga/Yaksa/Kimnara/Garuda
-148 | Asura/Yaksa/Garuda
-149 | Naga/Asura/Yaksa/Garuda
-150 | Asura/Yaksa/Kimnara/Garuda
-151 | Naga/Asura/Yaksa/Kimnara/Garuda
-152 | Yaksa/Rakshasa/Garuda
-153 | Naga/Yaksa/Rakshasa/Garuda
-154 | Yaksa/Kimnara/Rakshasa/Garuda
-155 | Naga/Yaksa/Kimnara/Rakshasa/Garuda
-156 | Asura/Yaksa/Rakshasa/Garuda
-157 | Naga/Asura/Yaksa/Rakshasa/Garuda
-158 | Asura/Yaksa/Kimnara/Rakshasa/Garuda
-159 | Naga/Asura/Yaksa/Kimnara/Rakshasa/Garuda
-160 | Gandharva/Garuda
-161 | Naga/Gandharva/Garuda
-162 | Kimnara/Gandharva/Garuda
-163 | Naga/Kimnara/Gandharva/Garuda
-164 | Asura/Gandharva/Garuda
-165 | Naga/Asura/Gandharva/Garuda
-166 | Asura/Kimnara/Gandharva/Garuda
-167 | Naga/Asura/Kimnara/Gandharva/Garuda
-168 | Rakshasa/Gandharva/Garuda
-169 | Naga/Rakshasa/Gandharva/Garuda
-170 | Kimnara/Rakshasa/Gandharva/Garuda
-171 | Naga/Kimnara/Rakshasa/Gandharva/Garuda
-172 | Asura/Rakshasa/Gandharva/Garuda
-173 | Naga/Asura/Rakshasa/Gandharva/Garuda
-174 | Asura/Kimnara/Rakshasa/Gandharva/Garuda
-175 | Naga/Asura/Kimnara/Rakshasa/Gandharva/Garuda
-176 | Yaksa/Gandharva/Garuda
-177 | Naga/Yaksa/Gandharva/Garuda
-178 | Yaksa/Kimnara/Gandharva/Garuda
-179 | Naga/Yaksa/Kimnara/Gandharva/Garuda
-180 | Asura/Yaksa/Gandharva/Garuda
-181 | ?
-182 | ?
-183 | ?
-184 | ?
-185 | ?
-186 | ?
-187 | ?
-188 | ?
-189 | ?
-190 | ?
-191 | ?
-192 | Deva/Garuda
+| ID  | EXCLUSIVE FOR                                    |
+| --- | ------------------------------------------------ |
+| 1   | Naga                                             |
+| 2   | Kimnara                                          |
+| 3   | Naga/Kimnara                                     |
+| 4   | Asura                                            |
+| 5   | Naga/Asura                                       |
+| 6   | Asura/Kimnara                                    |
+| 7   | Naga/Asura/Kimnara                               |
+| 8   | Rakshasa                                         |
+| 9   | Naga/Rakshasa                                    |
+| 10  | Kimnara/Rakshasa                                 |
+| 11  | Naga/Kimnara/Rakshasa                            |
+| 12  | Asura/Rakshasa                                   |
+| 13  | Naga/Asura/Rakshasa                              |
+| 14  | Asura/Kimnara/Rakshasa                           |
+| 15  | Naga/Asura/Kimnara/Rakshasa                      |
+| 16  | Yaksa                                            |
+| 17  | Naga/Yaksa                                       |
+| 18  | Yaksa/Kimnara                                    |
+| 19  | Naga/Yaksa/Kimnara                               |
+| 20  | Asura/Yaksa                                      |
+| 21  | Naga/Asura/Yaksa                                 |
+| 22  | Asura/Yaksa/Kimnara                              |
+| 23  | Naga/Asura/Yaksa/Kimnara                         |
+| 24  | Yaksa/Rakshasa                                   |
+| 25  | Naga/Yaksa/Rakshasa                              |
+| 26  | Yaksa/Kimnara/Rakshasa                           |
+| 27  | Naga/Yaksa/Kimnara/Rakshasa                      |
+| 28  | Asura/Yaksa/Rakshasa                             |
+| 29  | Naga/Asura/Yaksa/Rakshasa                        |
+| 30  | Asura/Yaksa/Kimnara/Rakshasa                     |
+| 31  | Naga/Asura/Yaksa/Kimnara/Rakshasa                |
+| 32  | Gandharva                                        |
+| 33  | Naga/Gandharva                                   |
+| 34  | Kimnara/Gandharva                                |
+| 35  | Naga/Kimnara/Gandharva                           |
+| 36  | Asura/Gandharva                                  |
+| 37  | Naga/Asura/Gandharva                             |
+| 38  | Asura/Kimnara/Gandharva                          |
+| 39  | Naga/Asura/Kimnara/Gandharva                     |
+| 40  | Rakshasa/Gandharva                               |
+| 41  | Naga/Rakshasa/Gandharva                          |
+| 42  | Kimnara/Rakshasa/Gandharva                       |
+| 43  | Naga/Kimnara/Rakshasa/Gandharva                  |
+| 44  | Asura/Rakshasa/Gandharva                         |
+| 45  | Naga/Asura/Rakshasa/Gandharva                    |
+| 46  | Asura/Kimnara/Rakshasa/Gandharva                 |
+| 47  | Naga/Asura/Kimnara/Rakshasa/Gandharva            |
+| 48  | Yaksa/Gandharva                                  |
+| 49  | Naga/Yaksa/Gandharva                             |
+| 50  | Yaksa/Kimnara/Gandharva                          |
+| 51  | Naga/Yaksa/Kimnara/Gandharva                     |
+| 52  | Asura/Yaksa/Gandharva                            |
+| 53  | Naga/Asura/Yaksa/Gandharva                       |
+| 54  | Asura/Yaksa/Kimnara/Gandharva                    |
+| 55  | Naga/Asura/Yaksa/Kimnara/Gandharva               |
+| 56  | Yaksa/Rakshasa/Gandharva                         |
+| 57  | Naga/Yaksa/Rakshasa/Gandharva                    |
+| 58  | Yaksa/Kimnara/Rakshasa/Gandharva                 |
+| 59  | Naga/Yaksa/Kimnara/Rakshasa/Gandharva            |
+| 60  | Asura/Yaksa/Rakshasa/Gandharva                   |
+| 61  | Naga/Asura/Yaksa/Rakshasa/Gandharva              |
+| 62  | Asura/Yaksa/Kimnara/Rakshasa/Gandharva           |
+| 63  | Naga/Asura/Yaksa/Kimnara/Rakshasa/Gandharva      |
+| 64  | Deva                                             |
+| 65  | Naga/Deva                                        |
+| 66  | Deva/Kimnara                                     |
+| 67  | Naga/Deva/Kimnara                                |
+| 68  | Asura/Deva                                       |
+| 69  | Naga/Asura/Deva                                  |
+| 70  | Asura/Deva/Kimnara                               |
+| 71  | Naga/Asura/Deva/Kimnara                          |
+| 72  | Deva/Rakshasa                                    |
+| 73  | Naga/Deva/Rakshasa                               |
+| 74  | Deva/Kimnara/Rakshasa                            |
+| 75  | Naga/Deva/Kimnara/Rakshasa                       |
+| 76  | Asura/Deva/Rakshasa                              |
+| 77  | Naga/Asura/Deva/Rakshasa                         |
+| 78  | Asura/Deva/Kimnara/Rakshasa                      |
+| 79  | Naga/Asura/Deva/Kimnara                          |
+| 80  | Yaksa/Deva                                       |
+| 81  | Naga/Yaksa/Deva                                  |
+| 82  | Yaksa/Deva/Kimnara                               |
+| 83  | Naga/Yaksa/Deva/Kimnara                          |
+| 84  | Asura/Yaksa/Deva                                 |
+| 85  | Naga/Asura/Yaksa/Deva                            |
+| 86  | Asura/Yaksa/Deva/Kimnara                         |
+| 87  | Naga/Asura/Yaksa/Deva                            |
+| 88  | Yaksa/Deva/Rakshasa                              |
+| 89  | Naga/Yaksa/Deva/Rakshasa                         |
+| 90  | Naga/Yaksa/Deva/Kimnara                          |
+| 91  | Asura/Yaksa/Deva/Rakshasa                        |
+| 92  | Naga/Asura/Yaksa/Deva                            |
+| 93  | Asura/Yaksa/Deva/Kimnara                         |
+| 94  | Naga/Asura/Yaksa/Deva/Kimnara/Rakshasa           |
+| 95  | Deva/Gandharva                                   |
+| 96  | Naga/Deva/Gandharva                              |
+| 97  | Deva/Kimnara/Gandharva                           |
+| 98  | Naga/Deva/Kimnara/Gandharva                      |
+| 99  | Asura/Deva/Gandharva                             |
+| 100 | Naga/Asura/Deva/Gandharva                        |
+| 101 | Asura/Deva/Kimnara/Gandharva                     |
+| 102 | Naga/Asura/Deva/Kimnara/Gandharva                |
+| 103 | Deva/Rakshasa/Gandharva                          |
+| 104 | Naga/Deva/Rakshasa/Gandharva                     |
+| 105 | Deva/Kimnara/Rakshasa/Gandharva                  |
+| 106 | Naga/Deva/Kimnara/Rakshasa/Gandharva             |
+| 107 | Asura/Deva/Rakshasa/Gandharva                    |
+| 108 | Naga/Asura/Deva/Rakshasa/Gandharva               |
+| 109 | Asura/Deva/Kimnara/Rakshasa/Gandharva            |
+| 110 | Naga/Asura/Deva/Kimnara/Rakshasa/Gandharva       |
+| 111 | Yaksa/Deva/Gandharva                             |
+| 112 | Naga/Yaksa/Deva/Gandharva                        |
+| 113 | Yaksa/Deva/Kimnara/Gandharva                     |
+| 114 | Naga/Yaksa/Deva/Kimnara/Gandharva                |
+| 115 | Asura/Yaksa/Deva/Gandharva                       |
+| 116 | Naga/Asura/Yaksa/Deva/Gandharva                  |
+| 117 | Asura/Yaksa/Deva/Kimnara/Gandharva               |
+| 118 | Naga/Asura/Yaksa/Deva/Kimnara/Gandharva          |
+| 119 | Yaksa/Deva/Rakshasa/Gandharva                    |
+| 120 | ?                                                |
+| 121 | Naga/Yaksa/Deva/Rakshasa/Gandharva               |
+| 122 | Yaksa/Deva/Kimanra/Rakshasa/Gandharva            |
+| 123 | Naga/Yaksa/Deva/Kimnara/Rakshasa/Gandharva       |
+| 124 | Asura/Yaksa/Deva/Rakshasa/Gandharva              |
+| 125 | Naga/Asura/Yaksa/Deva/Rakshasa/Gandharva         |
+| 126 | Asura/Yaksa/Deva/Kimnara/Rakshasa/Gandharva      |
+| 127 | Naga/Asura/Yaksa/Deva/Kimnara/Rakshasa/Gandharva |
+| 128 | Garuda                                           |
+| 129 | Naga/Garuda                                      |
+| 130 | Kimnara/Garuda                                   |
+| 131 | Naga/Kimnara/Garuda                              |
+| 132 | Asura/Garuda                                     |
+| 133 | Naga/Asura/Garuda                                |
+| 134 | Asura/Kimnara/Garuda                             |
+| 135 | Naga/Asura/Kimnara/Garuda                        |
+| 136 | Rakshasa/Garuda                                  |
+| 137 | Naga/Rakshasa/Garuda                             |
+| 138 | Kimnara/Rakshasa/Garuda                          |
+| 139 | Naga/Kimnara/Rakshasa/Garuda                     |
+| 140 | Asura/Rakshasa/Garuda                            |
+| 141 | Naga/Asura/Rakshasa/Garuda                       |
+| 142 | Asura/Kimnara/Rakshasa/Garuda                    |
+| 143 | Naga/Asura/Kimnara/Rakshasa/Garuda               |
+| 144 | Yaksa/Garuda                                     |
+| 145 | Naga/Yaksa/Garuda                                |
+| 146 | Yaksa/Kimnara/Garuda                             |
+| 147 | Naga/Yaksa/Kimnara/Garuda                        |
+| 148 | Asura/Yaksa/Garuda                               |
+| 149 | Naga/Asura/Yaksa/Garuda                          |
+| 150 | Asura/Yaksa/Kimnara/Garuda                       |
+| 151 | Naga/Asura/Yaksa/Kimnara/Garuda                  |
+| 152 | Yaksa/Rakshasa/Garuda                            |
+| 153 | Naga/Yaksa/Rakshasa/Garuda                       |
+| 154 | Yaksa/Kimnara/Rakshasa/Garuda                    |
+| 155 | Naga/Yaksa/Kimnara/Rakshasa/Garuda               |
+| 156 | Asura/Yaksa/Rakshasa/Garuda                      |
+| 157 | Naga/Asura/Yaksa/Rakshasa/Garuda                 |
+| 158 | Asura/Yaksa/Kimnara/Rakshasa/Garuda              |
+| 159 | Naga/Asura/Yaksa/Kimnara/Rakshasa/Garuda         |
+| 160 | Gandharva/Garuda                                 |
+| 161 | Naga/Gandharva/Garuda                            |
+| 162 | Kimnara/Gandharva/Garuda                         |
+| 163 | Naga/Kimnara/Gandharva/Garuda                    |
+| 164 | Asura/Gandharva/Garuda                           |
+| 165 | Naga/Asura/Gandharva/Garuda                      |
+| 166 | Asura/Kimnara/Gandharva/Garuda                   |
+| 167 | Naga/Asura/Kimnara/Gandharva/Garuda              |
+| 168 | Rakshasa/Gandharva/Garuda                        |
+| 169 | Naga/Rakshasa/Gandharva/Garuda                   |
+| 170 | Kimnara/Rakshasa/Gandharva/Garuda                |
+| 171 | Naga/Kimnara/Rakshasa/Gandharva/Garuda           |
+| 172 | Asura/Rakshasa/Gandharva/Garuda                  |
+| 173 | Naga/Asura/Rakshasa/Gandharva/Garuda             |
+| 174 | Asura/Kimnara/Rakshasa/Gandharva/Garuda          |
+| 175 | Naga/Asura/Kimnara/Rakshasa/Gandharva/Garuda     |
+| 176 | Yaksa/Gandharva/Garuda                           |
+| 177 | Naga/Yaksa/Gandharva/Garuda                      |
+| 178 | Yaksa/Kimnara/Gandharva/Garuda                   |
+| 179 | Naga/Yaksa/Kimnara/Gandharva/Garuda              |
+| 180 | Asura/Yaksa/Gandharva/Garuda                     |
+| 181 | ?                                                |
+| 182 | ?                                                |
+| 183 | ?                                                |
+| 184 | ?                                                |
+| 185 | ?                                                |
+| 186 | ?                                                |
+| 187 | ?                                                |
+| 188 | ?                                                |
+| 189 | ?                                                |
+| 190 | ?                                                |
+| 191 | ?                                                |
+| 192 | Deva/Garuda                                      |
 
 ---
 
