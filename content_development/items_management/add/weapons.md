@@ -15,10 +15,10 @@ We can copy a weapon of the same one that we want to add to have a base structur
 For this example we will add:
 
 ```note
-ID: 4396
-Name: Sword 19th
-Description: Two Hand Blade
-sType: 513
+- **ID**: 4396
+- **Name**: Sword 19th
+- **Description**: Two Hand Blade
+- **sType**: 513
 iLimitTribe: 15
 ```
 
@@ -42,8 +42,8 @@ In the `ItemText` sheet, we are on the last line to add the texture resource. Th
 For this example we will add:
 
 ```note
-ID: 24409
-File: WPN_19th_Sword2H.dds
+- **ID**: 24409
+- **File**: WPN_19th_Sword2H.dds
 ```
 
 The hpk file must be unpacked, in the case of textures, the `HPK2Files` tool is used for this. Choose the option `HPK2 => Files`.
@@ -79,16 +79,16 @@ In the `ItemTMD` sheet, we are on the last line to add the models resource. The 
 For this example we will add:
 
 ```note
-ID: 14445
-File: WPN_19th_Sword2H.tmb
-NAGScale: 100
-ASUScale: 100
-YAKScale: 100
-DEVScale: 100
-KIMScale: 100
-RAKScale: 100
-GANScale: 100
-GARScale: 100
+- **ID**: 14445
+- **File**: WPN_19th_Sword2H.tmb
+- **NAGScale**: 100
+- **ASUScale**: 100
+- **AKScale**: 100
+- **DEVScale**: 100
+- **KIMScale**: 100
+- **RAKScale**: 100
+- **GANScale**: 100
+- **GARScale**: 100
 ```
 
 ![Clientres.xml: Insert new model line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/05.png)
@@ -116,9 +116,9 @@ In the `MAINUI` sheet, we are on the last line to add all references resource of
 For this example we will add:
 
 ```note
-ID: 76318
-Name: 19th Sword 2H
-File: icon_wpn_19th_sword2h.bmp
+- **ID**: 76318
+- **Name**: 19th Sword 2H
+- **File**: icon_wpn_19th_sword2h.bmp
 ```
 
 ![Main_Item.hpk: Insert icon line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/07.png)
@@ -128,12 +128,12 @@ In the `Item` sheet, we are on the last line to add all references resource of t
 For this example we will add:
 
 ```note
-ID: 4396
-Name: Sword 19th
-Type: 909
-Model_ID: 14445
-ModelTexID: 24409
-Inventory_Tex_ID: icon_wpn_19th_sword2h.bmp
+- **ID**: 4396
+- **Name**: Sword 19th
+- **Type**: 909
+- **Model_ID**: 14445
+- **ModelTexID**: 24409
+- **Inventory_Tex_ID**: icon_wpn_19th_sword2h.bmp
 ```
 
 ![Main_Item.hpk: Insert item assembly line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/08.png)
