@@ -11,8 +11,8 @@ Every ZoneServer get these files and set the daily god grade per every character
 ### How to set it
 
 1. Create a table of each world by referring GameInfo_Table_Script.sql and GameInfo00_Table_Schema.  
-  1.1 TantraBackupXX and GameInfoXX must be existed in same DataBase.example  
-  1.2 GameInfo00 -> world0, GameInfo01 -> world1, GameInfo02 -> world2
+   1.1 TantraBackupXX and GameInfoXX must be existed in same DataBase.example  
+   1.2 GameInfo00 -> world0, GameInfo01 -> world1, GameInfo02 -> world2
 
 2. Make Sql job scheduler run and enable to put the data in GameInfoXX table every 3 A.M.by referring GameInfo_Job_Schedule.txt.
 
