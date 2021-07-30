@@ -99,23 +99,23 @@ We copy a row of some similar monster, that is, it is made of land or air depend
 For this example we will add:
 
 ```note
-ID: 3785
-Name: Ancient Vasabhum
-NumMesh: 1
-BasicModel: 12294
-Mesh1: 12294
-Tex1: 13399
-STD: 53417
-IDL: 53418
-WLK: 53419
-RUN: 53420
-ATK1: 53421
-ATK2: 53422
-HIT: 53423
-DIE: 53424
-Material_ID: 9991
-MonFXID: 61002
-Scale: 90
+- **ID**: 3785
+- **Name**: Ancient Vasabhum
+- **NumMesh**: 1
+- **BasicModel**: 12294
+- **Mesh1**: 12294
+- **Tex1**: 13399
+- **STD**: 53417
+- **IDL**: 53418
+- **WLK**: 53419
+- **RUN**: 53420
+- **ATK1**: 53421
+- **ATK2**: 53422
+- **HIT**: 53423
+- **DIE**: 53424
+- **Material_ID**: 9991
+- **MonFXID**: 61002
+- **Scale**: 90
 ```
 
 ![ClientRes.xml : Add new monster assembly line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/06.png)
