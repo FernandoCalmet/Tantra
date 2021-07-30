@@ -13,7 +13,7 @@ Copy an existing row to have a base structure for the monster to be added.
 For this example we will add:
 
 ```note
-ID: 3785  
+ID: 3785
 Name: Ancient Vasabhum
 ```
 
@@ -37,7 +37,7 @@ In the `MonText` sheet, we are on the last line to add the texture resource. The
 For this example we will add:
 
 ```note
-ID: 13399  
+ID: 13399
 File: MON_Ancient_Vasabhum.dds
 ```
 
@@ -50,28 +50,28 @@ In the `MonAni` sheet, we are on the last line to add the animation resource. Th
 For this example we will add:
 
 ```note
-ID: 53417  
+ID: 53417
 File: MON_Ancient_Vasabhum_STD.tab
 
-ID: 53418  
+ID: 53418
 File: MON_Ancient_Vasabhum_IDL.tab
 
-ID: 53419  
+ID: 53419
 File: MON_Ancient_Vasabhum_WLK.tab
 
-ID: 53420  
+ID: 53420
 File: MON_Ancient_Vasabhum_RUN.tab
 
-ID: 53421  
+ID: 53421
 File: MON_Ancient_Vasabhum_ATK1.tab
 
-ID: 53422  
+ID: 53422
 File: MON_Ancient_Vasabhum_ATK2.tab
 
-ID: 53423  
+ID: 53423
 File: MON_Ancient_Vasabhum_HIT.tab
 
-ID: 53424  
+ID: 53424
 File: MON_Ancient_Vasabhum_DIE.tab
 ```
 
@@ -84,7 +84,7 @@ In the `MonTMD` sheet, we are on the last line to add the models resource. The e
 For this example we will add:
 
 ```note
-ID: 12294  
+ID: 12294
 File: MON_Ancient_Vasabhum.tmb
 ```
 
@@ -99,22 +99,22 @@ We copy a row of some similar monster, that is, it is made of land or air depend
 For this example we will add:
 
 ```note
-ID: 3785  
-Name: Ancient Vasabhum  
-NumMesh: 1  
-BasicModel: 12294  
-Mesh1: 12294  
-Tex1: 13399  
-STD: 53417  
-IDL: 53418  
-WLK: 53419  
-RUN: 53420  
-ATK1: 53421  
-ATK2: 53422  
-HIT: 53423  
-DIE: 53424  
-Material_ID: 9991  
-MonFXID: 61002  
+ID: 3785
+Name: Ancient Vasabhum
+NumMesh: 1
+BasicModel: 12294
+Mesh1: 12294
+Tex1: 13399
+STD: 53417
+IDL: 53418
+WLK: 53419
+RUN: 53420
+ATK1: 53421
+ATK2: 53422
+HIT: 53423
+DIE: 53424
+Material_ID: 9991
+MonFXID: 61002
 Scale: 90
 ```
 
@@ -130,9 +130,9 @@ The files configured in the XML must be added in the following directories:
 
 ```note
 - **resource/object/Monster/MonsterTex2.hpk** : MON_Ancient_Vasabhum.dds
-  
+
 - **resource/object/Monster/Ani** : MON_Ancient_Vasabhum_STD.tab, MON_Ancient_Vasabhum_IDL.tab, MON_Ancient_Vasabhum_WLK.tab, MON_Ancient_Vasabhum_RUN.tab, MON_Ancient_Vasabhum_ATK1.tab, MON_Ancient_Vasabhum_ATK2.tab, MON_Ancient_Vasabhum_HIT.tab,  MON_Ancient_Vasabhum_DIE.tab
-  
+
 - **resource/object/Monster/Mesh** : MON_Ancient_Vasabhum.tmb
 ```
 
