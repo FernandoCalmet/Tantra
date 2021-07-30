@@ -15,11 +15,11 @@ We can copy a weapon of the same one that we want to add to have a base structur
 For this example we will add:
 
 ```note
-ID: 4396  
-Name: Sword 19th  
-Description: Two Hand Blade  
-sType: 513  
-iLimitTribe: 15  
+ID: 4396
+Name: Sword 19th
+Description: Two Hand Blade
+sType: 513
+iLimitTribe: 15
 ```
 
 ![TantraParam.xml: Insert new line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/02.png)
@@ -42,7 +42,7 @@ In the `ItemText` sheet, we are on the last line to add the texture resource. Th
 For this example we will add:
 
 ```note
-ID: 24409  
+ID: 24409
 File: WPN_19th_Sword2H.dds
 ```
 
@@ -53,7 +53,7 @@ The hpk file must be unpacked, in the case of textures, the `HPK2Files` tool is 
 The files configured in the XML must be added in the following directories:
 
 ```note
-- **resource/object/Item/ItemTex2.hpk** : WPN_19th_Sword2H.dds  
+- **resource/object/Item/ItemTex2.hpk** : WPN_19th_Sword2H.dds
 
 - **resource/object/Item/Mesh/Mesh**: WPN_19th_Sword2H.tmb
 ```
@@ -79,15 +79,15 @@ In the `ItemTMD` sheet, we are on the last line to add the models resource. The 
 For this example we will add:
 
 ```note
-ID: 14445  
-File: WPN_19th_Sword2H.tmb  
-NAGScale: 100  
-ASUScale: 100  
-YAKScale: 100  
-DEVScale: 100  
-KIMScale: 100  
-RAKScale: 100  
-GANScale: 100  
+ID: 14445
+File: WPN_19th_Sword2H.tmb
+NAGScale: 100
+ASUScale: 100
+YAKScale: 100
+DEVScale: 100
+KIMScale: 100
+RAKScale: 100
+GANScale: 100
 GARScale: 100
 ```
 
@@ -116,8 +116,8 @@ In the `MAINUI` sheet, we are on the last line to add all references resource of
 For this example we will add:
 
 ```note
-ID: 76318  
-Name: 19th Sword 2H  
+ID: 76318
+Name: 19th Sword 2H
 File: icon_wpn_19th_sword2h.bmp
 ```
 
@@ -128,11 +128,11 @@ In the `Item` sheet, we are on the last line to add all references resource of t
 For this example we will add:
 
 ```note
-ID: 4396  
-Name: Sword 19th  
-Type: 909  
-Model_ID: 14445  
-ModelTexID: 24409  
+ID: 4396
+Name: Sword 19th
+Type: 909
+Model_ID: 14445
+ModelTexID: 24409
 Inventory_Tex_ID: icon_wpn_19th_sword2h.bmp
 ```
 
