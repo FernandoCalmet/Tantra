@@ -13,6 +13,13 @@
 | 9   | Increase attack success rate              |
 | 10  | Increase avoid success rate               |
 
+```note
+- Limit in increasing to the other 2 squares is 15
+- 0, 1, 2, 3 (Tested)
+
+- Example: 0, 50, 0, 15 = Increase 50 Heart Chakras proint + 15 Heart Chakras proint
+```
+
 ---
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
