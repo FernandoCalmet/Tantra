@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Basic Requeriments
+# Server Basic Requeriments
 
 - **Support Server**: 8gb RAM, 100gb SSD recommendable
 - **O.S**: Windows Server 2012 or high recommendable
