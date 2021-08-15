@@ -1,8 +1,4 @@
----
-sort: 2
----
-
-# Disk Partition
+# Server Disk Partition
 
 ![img1](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/installation/disk_management/01.png)
 
