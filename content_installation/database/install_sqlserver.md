@@ -1,8 +1,4 @@
----
-sort: 2
----
-
-# Database Manager
+# SQLServer Installation
 
 ![img1](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/installation/sqlserver/01.png)
 
