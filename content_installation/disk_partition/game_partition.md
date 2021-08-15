@@ -8,8 +8,6 @@ subst R: DBSRV\current_user
 subst K: SQLDMN\Rank
 ```
 
-![Main Partitions]()
-
 Creates an Account File in the `“D:\GameInfo\share”` folder. The folder structure is as shown in the image below.
 
 ```batch
