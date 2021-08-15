@@ -1,4 +1,4 @@
-# Game Partition
+# Game Disk Partition
 
 Create a batch file to instantiate the main partitions of the server.
 
