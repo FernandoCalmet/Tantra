@@ -91,7 +91,33 @@ PatchFold\system\TantraParam.tpa                                                
 
 Now we go to the web folder `"patch/mainupdate/"`, we open the file `"UpdateList.dat"` to be able to insert the lines that we are going to update.
 
+```note
+[OLDVERSION]  
+Oldversion = 6.9.0.6  
+1  
+[NEWVERSION]  
+Newversion = 6.9.0.6  
+2  
+[NEWFiles]	6
+PatchFold\HTLauncher.exe                                                           1818624        727705    ccbc9edb3203279318f7a03f90c06656  
+PatchFold\resource\etc\Intro_logo_1024.bmp                                         1572920        411938    76b5e191d5b93fd59459778299d65ea8  
+PatchFold\resource\etc\Intro_logo_800.bmp                                           786488        523350    b3722935b4639fbe00a009b229f10efc  
+PatchFold\Serverlist.txt                                                              1506           386    4aa1264f7debbf8964c818f977361332  
+PatchFold\system\HTMessage.txl                                                     1501456         61013    a616ab3dc1ccc060e84af56ea8ac79d1  
+PatchFold\system\TantraParam.tpa                                                   1700440       1701088    46ec819426ac292a86e71d387151fb3e 
+[ALLFILES]
+PatchFold\HTLauncher.exe                                                           1818624        727705    ccbc9edb3203279318f7a03f90c06656  
+PatchFold\resource\etc\Intro_logo_1024.bmp                                         1572920        411938    76b5e191d5b93fd59459778299d65ea8  
+PatchFold\resource\etc\Intro_logo_800.bmp                                           786488        523350    b3722935b4639fbe00a009b229f10efc  
+PatchFold\Serverlist.txt                                                              1506           386    4aa1264f7debbf8964c818f977361332  
+PatchFold\system\HTMessage.txl                                                     1501456         61013    a616ab3dc1ccc060e84af56ea8ac79d1  
+PatchFold\system\TantraParam.tpa                                                   1700440       1701088    46ec819426ac292a86e71d387151fb3e 
+```
 
+- `Oldversion` = `HTLauncher.exe` version and number of the last patch.
+- `Newversion` = `HTLauncher.exe` version and number for the new patch.
+- `NEWFiles` = Number of files added and files that will be automatically updated when `STTantra.exe` is opened.
+- `ALLFILES` = Files that will be automatically updated when we press `Check Files` in the `STTantra.exe`.
 
 ---
 
