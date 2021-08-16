@@ -61,6 +61,12 @@ We will do a test update to show the procedure for this activity. First we have 
                    --- `Intro_logo_1024.bmp`  
 ```
 
+Now we run the TantraPatchV2.exe program, and press the "Update" button.
+
+![TantrapatchV2](https://github.com/FernandoCalmet/Tantra/blob/master/extras/img/installation/web/client_patch/tantrapatchv2.png?raw=true)
+
+![TantrapatchV2 executed](https://github.com/FernandoCalmet/Tantra/blob/master/extras/img/installation/web/client_patch/tantrapatchv2_executed.png?raw=true)
+
 ---
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
