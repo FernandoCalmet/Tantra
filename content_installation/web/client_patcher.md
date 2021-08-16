@@ -67,6 +67,10 @@ Now we run the TantraPatchV2.exe program, and press the "Update" button.
 
 ![TantrapatchV2 executed](https://github.com/FernandoCalmet/Tantra/blob/master/extras/img/installation/web/client_patch/tantrapatchv2_executed.png?raw=true)
 
+This generates two files with the extension ".dat" and the compressed files inside the "PatchFold" folder.
+
+We copy all the compressed files with their respective folders, inside the web folder "patch/main/PatchFold/"
+
 ---
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
