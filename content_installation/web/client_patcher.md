@@ -4,23 +4,23 @@ To make an update from the Client, we must first make sure that we have the file
 
 ```note
 `patch/`  
-   |-- `main/`  
+   |--- `main/`  
          |  
-         -- `PatchFold/`  
+         --- `PatchFold/`  
          |      |  
-         |      -- `Here my updated files`  
+         |      --- `Here my updated files`  
          |  
-         -- `mainupdate/`  
+         --- `mainupdate/`  
                 |  
-                -- `Patcher.dat`  
+                --- `Patcher.dat`  
                 |  
-                -- `Tantra.dat`  
+                --- `Tantra.dat`  
                 |  
-                -- `Tantra.exe`  
+                --- `Tantra.exe`  
                 |  
-                -- `UpdateList.dat`  
+                --- `UpdateList.dat`  
                 |  
-                -- `Version.dat`  
+                --- `Version.dat`  
 ```
 
 We need to have the "TantraPatchV2.exe" tool with the following folder structure.
@@ -28,11 +28,11 @@ We need to have the "TantraPatchV2.exe" tool with the following folder structure
 ```note
 `TantraPatchV2/`  
     |  
-    -- `TantraPatchV2.exe`  
+    --- `TantraPatchV2.exe`  
     |  
-    -- `Patch_Data/`  
+    --- `Patch_Data/`  
     |  
-    -- `PatchFold/`  
+    --- `PatchFold/`  
 ```
 
 ---
