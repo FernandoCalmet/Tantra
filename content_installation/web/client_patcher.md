@@ -98,10 +98,8 @@ Oldversion = 6.9.0.6
 [NEWVERSION]  
 Newversion = 6.9.0.6  
 2  
-[NEWFiles]	6
+[NEWFiles]	4
 PatchFold\HTLauncher.exe                                                           1818624        727705    ccbc9edb3203279318f7a03f90c06656  
-PatchFold\resource\etc\Intro_logo_1024.bmp                                         1572920        411938    76b5e191d5b93fd59459778299d65ea8  
-PatchFold\resource\etc\Intro_logo_800.bmp                                           786488        523350    b3722935b4639fbe00a009b229f10efc  
 PatchFold\Serverlist.txt                                                              1506           386    4aa1264f7debbf8964c818f977361332  
 PatchFold\system\HTMessage.txl                                                     1501456         61013    a616ab3dc1ccc060e84af56ea8ac79d1  
 PatchFold\system\TantraParam.tpa                                                   1700440       1701088    46ec819426ac292a86e71d387151fb3e 
@@ -118,6 +116,19 @@ PatchFold\system\TantraParam.tpa                                                
 - `Newversion` = `HTLauncher.exe` version and number for the new patch.
 - `NEWFiles` = Number of files added and files that will be automatically updated when `STTantra.exe` is opened.
 - `ALLFILES` = Files that will be automatically updated when we press `Check Files` in the `STTantra.exe`.
+
+Finally we update the file `"Version.dat"`.
+
+```note
+[OLDVERSION]  
+Oldversion = 6.9.0.6  
+1  
+[NEWVERSION]  
+Newversion = 6.9.0.6  
+2  
+```
+
+Ready, now that we run `STTantra.exe`, the patch files will be updated.
 
 ---
 
