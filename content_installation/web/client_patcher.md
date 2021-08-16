@@ -4,8 +4,8 @@ To make an update from the Client, we must first make sure that we have the file
 
 ```note
 `patch/`  
-&emsp;|-- `main/`  
-&emsp;&emsp;|  
+`_``_`|-- `main/`  
+`_``_``_``_`|  
         -- `PatchFold/`  
         |   |  
         |   -- `Here my updated files`  
