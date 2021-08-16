@@ -7,20 +7,20 @@ To make an update from the Client, we must first make sure that we have the file
    |-- `main/`  
          |  
          -- `PatchFold/`  
-         |   |  
-         |   -- `Here my updated files`  
+         |      |  
+         |      -- `Here my updated files`  
          |  
          -- `mainupdate/`  
-             |  
-             -- `Patcher.dat`  
-             |  
-             -- `Tantra.dat`  
-             |  
-             -- `Tantra.exe`  
-             |  
-             -- `UpdateList.dat`  
-             |  
-             -- `Version.dat`  
+                |  
+                -- `Patcher.dat`  
+                |  
+                -- `Tantra.dat`  
+                |  
+                -- `Tantra.exe`  
+                |  
+                -- `UpdateList.dat`  
+                |  
+                -- `Version.dat`  
 ```
 
 We need to have the "TantraPatchV2.exe" tool with the following folder structure.
