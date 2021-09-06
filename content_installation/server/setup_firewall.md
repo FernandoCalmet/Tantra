@@ -1,6 +1,6 @@
 # Setup Firewall Ports
 
-## Firewall TCP ports allowed
+## Inbound TCP ports allowed
 
 File | Port
 --- | ---
