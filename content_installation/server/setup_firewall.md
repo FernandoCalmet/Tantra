@@ -1,4 +1,4 @@
-# Setup Firewall Ports
+# Setup Firewall
 
 ## Inbound TCP ports allowed
 
