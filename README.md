@@ -25,11 +25,11 @@ Tantra Online is a simple, fast paced 3D MMORPG set in an oriental fantasy world
 
 In order to play TANTRA, you need a computer with the following specifications and an Internet environment.  Before you start the game, first check the specifications of your PC.
 
-**OS**: Windows XP and up  
-**CPU**: Pentium 4 @1.4 GHz  
-**RAM**: 512MB or more  
-**GPU**: Videocard with 64MB of RAM or better  
-**HDD**: 2GB  
+- **OS**: Windows XP and up
+- **CPU**: Pentium 4 @1.4 GHz
+- **RAM**: 512MB or more
+- **GPU**: Videocard with 64MB of RAM or better
+- **HDD**: 2GB
 
 ---
 :octocat: [Check more about me.](https://github.com/FernandoCalmet)
