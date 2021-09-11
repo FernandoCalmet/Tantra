@@ -12,14 +12,14 @@ Tantra Online is a simple, fast paced 3D MMORPG set in an oriental fantasy world
 
 ## Game Details
 
-**Status**: Released
-**Release Date**: Oct 2, 2002
-**Business Model**: Free to Play
-**Developer**: JoyImpact
-**Publisher**: HanbitSoft
-**Category**: Stand-alone
-**Genre(s)**: 3D, MMO, Fantasy
-**Platforms**: PC
+- **Status**: Released
+- **Release Date**: Oct 2, 2002
+- **Business Model**: Free to Play
+- **Developer**: JoyImpact
+- **Publisher**: HanbitSoft
+- **Category**: Stand-alone
+- **Genre(s)**: 3D, MMO, Fantasy
+- **Platforms**: PC
 
 ## Recommended System Requirements
 
