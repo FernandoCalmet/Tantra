@@ -4,6 +4,6 @@
         "html5shiv": "^3.7.3",
         "jquery": "^3.5.1",
         "jquery.toc": "^0.4.0",
-        "mermaid": "^8.7.0"
+        "mermaid": "^9.2.0"
     }
 }
