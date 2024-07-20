@@ -56,7 +56,7 @@ For MSSQL we need to install [SQL Server](https://www.microsoft.com/es-es/sql-se
 
 ### Install backend dependencies
 
-Now we can put the backend website files in some directory where we want to host the website. If this is in a local environment you can choose any location on the machine.
+Now we can put the backend website files in some directory where we want to host the website. You can choose any location on the machine.
 
 We can open the web project using [VSCode](https://code.visualstudio.com/) or any other code editor. Now open Terminal and run the command:
 
