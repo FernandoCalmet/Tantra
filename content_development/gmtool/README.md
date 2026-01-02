@@ -1,3 +1,0 @@
-# GMTool
-
-source: `{{ page.path }}`

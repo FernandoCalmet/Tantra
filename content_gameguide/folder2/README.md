@@ -1,3 +1,0 @@
-# Quickstart
-
-source: `{{ page.path }}`

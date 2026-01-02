@@ -1,59 +1,174 @@
-# TANTRA DOCS
+# Tantra Online Documentation Site
 
-[![Github][github-shield]][github-url]
-[![Kofi][kofi-shield]][kofi-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Khanakat][khanakat-shield]][khanakat-url]
+A modern, minimalist documentation site built with Next.js, Tailwind CSS, and shadcn-ui. Features automated content discovery from markdown files and GitHub Pages deployment.
 
-[View Docs Page](https://fernandocalmet.github.io/tantra)
+## Features
 
-## 🔥 ABOUT THIS PROJECT
+- **File-system based content**: Add markdown files to `/content` and they automatically appear in the navigation
+- **Modern UI**: Minimalist Tesla/Apple-inspired design with warm copper/orange accents
+- **Responsive**: Works beautifully on desktop, tablet, and mobile
+- **Static Export**: Generates static HTML for fast, reliable hosting on GitHub Pages
+- **Auto-deployment**: GitHub Actions automatically builds and deploys on every push
+- **Dark Mode Ready**: Near-black dark mode with maintained copper accents
+- **MDX Support**: Enhanced markdown with React components
+- **Syntax Highlighting**: Code blocks with Shiki
+- **Search**: Command palette (Cmd+K) for quick navigation
 
-The purpose of this page is to document the content of the Tantra Online video game. Include information on game aspects and also guides for server developers.
+## Getting Started
 
-If you want to get access to a private repository where developer files are kept and shared, you join our discord for more information [Tantra Online Developers](https://discord.gg/FEMaqz26) or contact to the administrador on [Ko-Fi page](https://ko-fi.com/fernandocalmet).
+### Development
 
-## 👓 GAME OVERVIEW
+1. Install dependencies:
+```bash
+npm install
+```
 
-Tantra Online is a simple, fast paced 3D MMORPG set in an oriental fantasy world. Set in an oriental environment with 8 playable tribes and a PvP focused gameplay. With a high experience rate and simple combat, Tantra is easy to jump into.
+2. Run the development server:
+```bash
+npm run dev
+```
 
-## ✨ GAME DETAILS
+3. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-- **Status**: Released
-- **Release Date**: Oct 2, 2002
-- **Business Model**: Free to Play
-- **Developer**: JoyImpact
-- **Publisher**: HanbitSoft
-- **Category**: Stand-alone
-- **Genre(s)**: 3D, MMO, Fantasy
-- **Platforms**: PC
+### Adding Content
 
-## ✔️ RECOMMENDED SYSTEM REQUIREMENTS
+Simply add markdown files to the `/content` directory:
 
-In order to play TANTRA, you need a computer with the following specifications and an Internet environment.  Before you start the game, first check the specifications of your PC.
+```markdown
+---
+title: "Your Page Title"
+description: "Page description for SEO"
+order: 1
+---
 
-- **OS**: Windows XP and up
-- **CPU**: Pentium 4 @1.4 GHz
-- **RAM**: 512MB or more
-- **GPU**: Videocard with 64MB of RAM or better
-- **HDD**: 2GB
+# Your Page Title
 
-## 📄 LICENSE
+Your content here...
+```
 
-This project is under the License (MIT License) - look at the file [LICENSE](LICENSE) for more details.
+#### Folder Structure
 
-## ⭐️ GIVE ME A START
+- Each folder can have a `README.md` (becomes the index page for that section)
+- Files are sorted by `order` field, then alphabetically
+- Folder names are auto-converted to titles (e.g., `items-management` → "Items Management")
 
-If this Implementation was useful to you or you used it in your Projects, give it a star. Thanks! Or, if you're feeling really generous, [Support the project with a small contribution!](https://ko-fi.com/fernandocalmet).
+Example structure:
+```
+content/
+├── README.md                    # Homepage
+├── installation/
+│   ├── README.md               # Installation section index
+│   ├── client/
+│   │   └── setup.md
+│   └── database/
+│       └── install.md
+└── development/
+    └── gmtool/
+        └── commands.md
+```
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+### Building for Production
 
-<!--- reference style links --->
-[github-shield]: https://img.shields.io/badge/-@fernandocalmet-%23181717?style=flat-square&logo=github
-[github-url]: https://github.com/fernandocalmet
-[kofi-shield]: https://img.shields.io/badge/-@fernandocalmet-%231DA1F2?style=flat-square&logo=kofi&logoColor=ff5f5f
-[kofi-url]: https://ko-fi.com/fernandocalmet
-[linkedin-shield]: https://img.shields.io/badge/-fernandocalmet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandocalmet
-[linkedin-url]: https://www.linkedin.com/in/fernandocalmet
-[khanakat-shield]: https://img.shields.io/badge/khanakat.com-brightgreen?style=flat-square
-[khanakat-url]: https://khanakat.com
+Build the static site:
+```bash
+npm run build
+```
+
+The output will be in the `/out` directory, ready to deploy to GitHub Pages.
+
+## Deployment
+
+### GitHub Pages Setup
+
+1. Go to your repository settings
+2. Navigate to Pages section
+3. Set Source to "GitHub Actions"
+4. Push to main/master branch
+
+The GitHub Actions workflow will automatically:
+- Install dependencies
+- Build the static site
+- Deploy to GitHub Pages
+
+Your site will be available at: `https://fernandocalmet.github.io/Tantra`
+
+## Technology Stack
+
+- **Framework**: Next.js 16 (App Router) with static export
+- **Styling**: Tailwind CSS v4
+- **Components**: shadcn-ui
+- **Markdown**: next-mdx-remote, gray-matter
+- **Syntax Highlighting**: Shiki
+- **Icons**: lucide-react
+
+## Project Structure
+
+```
+tantra-docs/
+├── app/                    # Next.js App Router
+│   ├── layout.tsx         # Root layout with sidebar
+│   ├── page.tsx           # Homepage
+│   └── [...slug]/         # Dynamic catch-all route
+├── components/
+│   ├── ui/                # shadcn-ui components
+│   └── docs/              # Documentation components
+│       ├── sidebar.tsx
+│       ├── top-navbar.tsx
+│       └── ...
+├── content/               # All markdown content
+├── lib/
+│   ├── content-tree.ts   # Content scanner
+│   └── markdown.ts       # Markdown processor
+├── public/
+│   └── extras/           # Images and assets
+└── .github/
+    └── workflows/
+        └── deploy.yml    # GitHub Actions workflow
+```
+
+## Color Palette
+
+The site uses a warm copper/orange accent color for a unique, energetic feel:
+
+- **Primary**: `#f97316` (Copper Orange)
+- **Background**: White (light mode) / `#0a0a0a` (dark mode)
+- **Text**: Sophisticated grays
+
+## Customization
+
+### Colors
+
+Edit `app/globals.css` to customize the color palette:
+
+```css
+:root {
+  --primary: oklch(0.71 0.16 50); /* Copper orange */
+  /* ... other colors */
+}
+```
+
+### Logo
+
+Update the logo in `components/docs/sidebar.tsx` and `components/docs/top-navbar.tsx`.
+
+### Metadata
+
+Update site metadata in `app/layout.tsx`:
+
+```typescript
+export const metadata: Metadata = {
+  title: "Your Site Title",
+  description: "Your description",
+};
+```
+
+## Contributing
+
+Content contributions are welcome! Simply:
+1. Add/edit markdown files in `/content`
+2. Commit and push to trigger automatic deployment
+3. Your changes will be live in ~2-3 minutes
+
+---
+
+Built with [Next.js](https://nextjs.org/) | Styled with [Tailwind CSS](https://tailwindcss.com/) | Components by [shadcn/ui](https://ui.shadcn.com/)
