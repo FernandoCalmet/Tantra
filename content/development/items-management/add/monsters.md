@@ -8,7 +8,7 @@ order: 7
 
 Open the file `TantraParam.xml` and we locate ourselves in the `Monster` sheet.
 
-![TantraParam.xml: Open](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/01.png)
+![TantraParam.xml: Open](/Tantra/extras/img/development/items_management/monster/01.png)
 
 Go to the last line to add a new ID, which we must verify that it does not exist.
 
@@ -21,7 +21,7 @@ ID: 3785
 Name: Ancient Vasabhum
 ```
 
-![TantraParam.xml : Add new monster line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/02.png)
+![TantraParam.xml : Add new monster line](/Tantra/extras/img/development/items_management/monster/02.png)
 
 ## Step 2
 
@@ -45,7 +45,7 @@ ID: 13399
 File: MON_Ancient_Vasabhum.dds
 ```
 
-![ClientRes.xml : Add new texture line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/03.png)
+![ClientRes.xml : Add new texture line](/Tantra/extras/img/development/items_management/monster/03.png)
 
 ### Animation
 
@@ -79,7 +79,7 @@ ID: 53424
 File: MON_Ancient_Vasabhum_DIE.tab
 ```
 
-![ClientRes.xml : Add new animation line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/04.png)
+![ClientRes.xml : Add new animation line](/Tantra/extras/img/development/items_management/monster/04.png)
 
 ### Model 3D
 
@@ -92,7 +92,7 @@ ID: 12294
 File: MON_Ancient_Vasabhum.tmb
 ```
 
-![ClientRes.xml : Add new model line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/05.png)
+![ClientRes.xml : Add new model line](/Tantra/extras/img/development/items_management/monster/05.png)
 
 ### Monster Assembly
 
@@ -122,7 +122,7 @@ For this example we will add:
 - **Scale**: 90
 ```
 
-![ClientRes.xml : Add new monster assembly line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/06.png)
+![ClientRes.xml : Add new monster assembly line](/Tantra/extras/img/development/items_management/monster/06.png)
 
 It is worth mentioning that the added attributes are relative to the model, some models have more parts and others less.
 
@@ -142,7 +142,7 @@ The files configured in the XML must be added in the following directories:
 
 First the hpk file must be unpacked, in the case of textures, the `HPK2Files` tool is used for this. Choose the option `HPK2 => Files`.
 
-![ClientRes.xml : Unpack hpk file](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/07.png)
+![ClientRes.xml : Unpack hpk file](/Tantra/extras/img/development/items_management/monster/07.png)
 
 Now, for the client to interpret the added files, the resources must be added to the `MonsterTex2.csv` file.
 
@@ -170,4 +170,4 @@ Within the game we introduce the command to summon the new monster.
 /summon2 3785
 ```
 
-![Client: Summon new monster](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/monster/08.png)
+![Client: Summon new monster](/Tantra/extras/img/development/items_management/monster/08.png)

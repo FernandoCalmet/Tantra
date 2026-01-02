@@ -8,7 +8,7 @@ order: 1
 
 Open the file `TantraParam.xml` and we locate ourselves in the `Item` sheet.
 
-![TantraParam.xml: Open](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/01.png)
+![TantraParam.xml: Open](/Tantra/extras/img/development/items_management/weapon/01.png)
 
 First we must be clear if the weapon will be one-handed or two-handed. Based on this, we can locate ourselves in a position in a row to add a new one.
 
@@ -26,7 +26,7 @@ For this example we will add:
 iLimitTribe: 15
 ```
 
-![TantraParam.xml: Insert new line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/02.png)
+![TantraParam.xml: Insert new line](/Tantra/extras/img/development/items_management/weapon/02.png)
 
 ## Step 2
 
@@ -52,7 +52,7 @@ For this example we will add:
 
 The hpk file must be unpacked, in the case of textures, the `HPK2Files` tool is used for this. Choose the option `HPK2 => Files`.
 
-![Clientres.xml: Insert new texture line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/03.png)
+![Clientres.xml: Insert new texture line](/Tantra/extras/img/development/items_management/weapon/03.png)
 
 The files configured in the XML must be added in the following directories:
 
@@ -74,7 +74,7 @@ Now we repackage it with the tool `HPK2Files` `Files => hpk`.
 
 Go to the package folder and extract (copy) the generated `ItemTex2.hpk` file, to replace it in a previous path.
 
-![Clientres.xml: Insert new texture line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/04.png)
+![Clientres.xml: Insert new texture line](/Tantra/extras/img/development/items_management/weapon/04.png)
 
 ### ItemTMD
 
@@ -95,7 +95,7 @@ For this example we will add:
 - **GARScale**: 100
 ```
 
-![Clientres.xml: Insert new model line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/05.png)
+![Clientres.xml: Insert new model line](/Tantra/extras/img/development/items_management/weapon/05.png)
 
 ### Item Icon
 
@@ -103,7 +103,7 @@ To add the icon, you must first unpack the `MAIN_ITEM.hpk` file, choose the opti
 
 Add the icon file and insert the image file.
 
-![Main_Item.hpk: Insert icon](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/06.png)
+![Main_Item.hpk: Insert icon](/Tantra/extras/img/development/items_management/weapon/06.png)
 
 Now we repackage it with the tool `HPK2Files` `Files => hpk`.
 
@@ -125,7 +125,7 @@ For this example we will add:
 - **File**: icon_wpn_19th_sword2h.bmp
 ```
 
-![Main_Item.hpk: Insert icon line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/07.png)
+![Main_Item.hpk: Insert icon line](/Tantra/extras/img/development/items_management/weapon/07.png)
 
 In the `Item` sheet, we are on the last line to add all references resource of the model.
 
@@ -140,7 +140,7 @@ For this example we will add:
 - **Inventory_Tex_ID**: icon_wpn_19th_sword2h.bmp
 ```
 
-![Main_Item.hpk: Insert item assembly line](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/08.png)
+![Main_Item.hpk: Insert item assembly line](/Tantra/extras/img/development/items_management/weapon/08.png)
 
 ## Step 3
 
@@ -152,4 +152,4 @@ We paste the files `Clientres.txl` and `TantraParam.tpa` in the Client's `system
 
 We introduce the weapon created to our account using `GMTool.exe`.
 
-![Client: Test](https://raw.githubusercontent.com/FernandoCalmet/Tantra/master/extras/img/development/items_management/weapon/09.png)
+![Client: Test](/Tantra/extras/img/development/items_management/weapon/09.png)
