@@ -1,36 +1,67 @@
-# Tantra Online Documentation Site
+<div align="center">
 
-A modern, minimalist documentation site built with Next.js, Tailwind CSS, and shadcn-ui. Features automated content discovery from markdown files and GitHub Pages deployment.
+# 🎮 Tantra Online Documentation
 
-## Features
+[![GitHub Pages](https://github.com/FernandoCalmet/Tantra/actions/workflows/deploy.yml/badge.svg)](https://github.com/FernandoCalmet/Tantra/actions/workflows/deploy.yml)
+[![Next.js](https://img.shields.io/badge/Next.js-16.1.1-black?logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-- **File-system based content**: Add markdown files to `/content` and they automatically appear in the navigation
-- **Modern UI**: Minimalist Tesla/Apple-inspired design with warm copper/orange accents
-- **Responsive**: Works beautifully on desktop, tablet, and mobile
-- **Static Export**: Generates static HTML for fast, reliable hosting on GitHub Pages
-- **Auto-deployment**: GitHub Actions automatically builds and deploys on every push
-- **Dark Mode Ready**: Near-black dark mode with maintained copper accents
-- **MDX Support**: Enhanced markdown with React components
-- **Syntax Highlighting**: Code blocks with Shiki
-- **Search**: Command palette (Cmd+K) for quick navigation
+**A modern, minimalist documentation site for Tantra Online game development**
 
-## Getting Started
+Built with Next.js • Tailwind CSS • shadcn/ui • MDX
 
-### Development
+[🌐 Live Demo](https://fernandocalmet.github.io/Tantra/) • [📖 Documentation](#getting-started) • [🐛 Report Bug](https://github.com/FernandoCalmet/Tantra/issues) • [✨ Request Feature](https://github.com/FernandoCalmet/Tantra/issues)
 
-1. Install dependencies:
+</div>
+
+---
+
+## ✨ Features
+
+- 🗂️ **File-system based content**: Add markdown files to `/content` and they automatically appear in the navigation
+- 🎨 **Modern UI**: Minimalist Tesla/Apple-inspired design with warm copper/orange accents
+- 📱 **Responsive**: Works beautifully on desktop, tablet, and mobile
+- ⚡ **Static Export**: Generates static HTML for fast, reliable hosting on GitHub Pages
+- 🚀 **Auto-deployment**: GitHub Actions automatically builds and deploys on every push
+- 🌙 **Dark Mode Ready**: Near-black dark mode with maintained copper accents
+- 📝 **MDX Support**: Enhanced markdown with React components
+- 🎯 **Syntax Highlighting**: Code blocks with Shiki
+- 🔍 **Search**: Command palette (Cmd+K) for quick navigation
+- ♿ **Accessible**: WCAG 2.1 AA compliant
+
+## 🚀 Getting Started
+
+### 💻 Development
+
+**Prerequisites:**
+- Node.js 20.x or higher
+- npm or yarn package manager
+
+**Steps:**
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/FernandoCalmet/Tantra.git
+cd Tantra
+```
+
+2. **Install dependencies**
 ```bash
 npm install
 ```
 
-2. Run the development server:
+3. **Run the development server**
 ```bash
 npm run dev
 ```
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser
+4. **Open your browser**
 
-### Adding Content
+Navigate to [http://localhost:3000](http://localhost:3000)
+
+### 📄 Adding Content
 
 Simply add markdown files to the `/content` directory:
 
@@ -46,13 +77,13 @@ order: 1
 Your content here...
 ```
 
-#### Folder Structure
+#### 📁 Folder Structure
 
 - Each folder can have a `README.md` (becomes the index page for that section)
 - Files are sorted by `order` field, then alphabetically
 - Folder names are auto-converted to titles (e.g., `items-management` → "Items Management")
 
-Example structure:
+**Example structure:**
 ```
 content/
 ├── README.md                    # Homepage
@@ -67,7 +98,7 @@ content/
         └── commands.md
 ```
 
-### Building for Production
+### 🏗️ Building for Production
 
 Build the static site:
 ```bash
@@ -76,7 +107,7 @@ npm run build
 
 The output will be in the `/out` directory, ready to deploy to GitHub Pages.
 
-## Deployment
+## 🌐 Deployment
 
 ### GitHub Pages Setup
 
@@ -92,16 +123,19 @@ The GitHub Actions workflow will automatically:
 
 Your site will be available at: `https://fernandocalmet.github.io/Tantra`
 
-## Technology Stack
+## 🛠️ Technology Stack
 
-- **Framework**: Next.js 16 (App Router) with static export
-- **Styling**: Tailwind CSS v4
-- **Components**: shadcn-ui
-- **Markdown**: next-mdx-remote, gray-matter
-- **Syntax Highlighting**: Shiki
-- **Icons**: lucide-react
+| Category | Technology |
+|----------|------------|
+| **Framework** | Next.js 16 (App Router) with static export |
+| **Styling** | Tailwind CSS v4 |
+| **Components** | shadcn/ui |
+| **Markdown** | next-mdx-remote, gray-matter |
+| **Syntax Highlighting** | Shiki |
+| **Icons** | lucide-react |
+| **Deployment** | GitHub Pages + Actions |
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 tantra-docs/
@@ -126,15 +160,18 @@ tantra-docs/
         └── deploy.yml    # GitHub Actions workflow
 ```
 
-## Color Palette
+## 🎨 Color Palette
 
 The site uses a warm copper/orange accent color for a unique, energetic feel:
 
-- **Primary**: `#f97316` (Copper Orange)
-- **Background**: White (light mode) / `#0a0a0a` (dark mode)
-- **Text**: Sophisticated grays
+| Color | Value | Usage |
+|-------|-------|-------|
+| **Primary** | `#f97316` | Copper Orange - Links, accents, highlights |
+| **Background (Light)** | `#ffffff` | White - Main background |
+| **Background (Dark)** | `#0a0a0a` | Near-black - Dark mode background |
+| **Text** | Various grays | Sophisticated text hierarchy |
 
-## Customization
+## ⚙️ Customization
 
 ### Colors
 
@@ -162,13 +199,56 @@ export const metadata: Metadata = {
 };
 ```
 
-## Contributing
+## 🤝 Contributing
 
-Content contributions are welcome! Simply:
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+### How to Contribute
+
+1. **Fork the Project**
+2. **Create your Feature Branch** (`git checkout -b feature/AmazingFeature`)
+3. **Commit your Changes** (`git commit -m 'feat: add some amazing feature'`)
+4. **Push to the Branch** (`git push origin feature/AmazingFeature`)
+5. **Open a Pull Request**
+
+### Content Contributions
+
+For documentation updates:
 1. Add/edit markdown files in `/content`
 2. Commit and push to trigger automatic deployment
 3. Your changes will be live in ~2-3 minutes
 
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**Fernando Calmet**
+
+- 🌐 Website: [fernandocalmet.github.io](https://fernandocalmet.github.io)
+- 💼 LinkedIn: [@fernandocalmet](https://www.linkedin.com/in/fernandocalmet)
+- 📧 Email: [fernandocalmet@gmail.com](mailto:fernandocalmet@gmail.com)
+- 🐙 GitHub: [@FernandoCalmet](https://github.com/FernandoCalmet)
+
+## ⭐ Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 🙏 Acknowledgments
+
+- [Next.js](https://nextjs.org/) - The React Framework
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
+- [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components
+- [Vercel](https://vercel.com/) - For the amazing deployment platform
+- The Tantra Online community
+
 ---
 
-Built with [Next.js](https://nextjs.org/) | Styled with [Tailwind CSS](https://tailwindcss.com/) | Components by [shadcn/ui](https://ui.shadcn.com/)
+<div align="center">
+
+**Built with ❤️ by [Fernando Calmet](https://github.com/FernandoCalmet)**
+
+[⬆ Back to Top](#-tantra-online-documentation)
+
+</div>
